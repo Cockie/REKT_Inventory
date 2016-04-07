@@ -1,1 +1,3503 @@
-{"Karthus": {"inventory": [{"ammo": "1 round", "py/object": "__main__.item", "name": "Gauss Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 113}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Lasgun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 113}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "30 rounds", "py/object": "__main__.item", "name": "Assault Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 113}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Karthus", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 1", "modificators": []}, "Fawkes": {"inventory": [{"ammo": "1 round", "py/object": "__main__.item", "name": "Gauss Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 72}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Lasgun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 72}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "stuff", "py/object": "__main__.item", "name": "First Aid Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 72}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Fawkes", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 3", "modificators": []}, "Amenra": {"inventory": [{"ammo": "3 grenades", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 9}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 9}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "30 rounds", "py/object": "__main__.item", "name": "Assault Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 9}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "1 round", "py/object": "__main__.item", "name": "Gauss Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 9}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Heavy Suit Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 9}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Amenra", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 1", "modificators": []}, "Kai'isha": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "PSI Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 102}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Quantum Minidrone", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 102}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Quantum Minidrone", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 102}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "4 syringes", "py/object": "__main__.item", "name": "Painkillers", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 102}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "stuff", "py/object": "__main__.item", "name": "Medical Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 102}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Kai'isha", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 4", "modificators": []}, "Tonon": {"inventory": [{"ammo": "6 rounds", "py/object": "__main__.item", "name": "Semiautomatic Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 154}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Crowbar", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 154}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 154}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Tonon", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 4", "modificators": []}, "Tulius": {"inventory": [{"ammo": "full canister", "py/object": "__main__.item", "name": "Blowtorch", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 163}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "3 thermate grenades", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 163}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "magnetic+cable reel, sharp+cable reel, sticky+explosive, syringe+acid", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 163}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Tulius", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 2", "modificators": []}, "Dr Cha0zz": {"inventory": [{"ammo": "Syringe+tranq, sharp+solid, barbed+cable reel, sharp+acid", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 61}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 61}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "Sticky frag, sticky EMP, frag", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 61}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Nanite-Sealed Suit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 61}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Labcoat", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 61}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Dr Cha0zz", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 1", "modificators": []}, "Rikke": {"inventory": [{"ammo": "charged", "py/object": "__main__.item", "name": "Tesla Gun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 122}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Crowbar", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 122}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "3 grenades", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 122}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Rikke", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 6", "modificators": []}, "Zorathex": {"inventory": [{"ammo": "Blunt+explosive, Sharp+solid, Syringe+tranq, magnetic+tracer", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 175}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 175}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "stuff", "py/object": "__main__.item", "name": "Medical Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 175}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Zorathex", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 3", "modificators": []}, "Andrew Rice": {"inventory": [{"ammo": "charged", "py/object": "__main__.item", "name": "Laser Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 17}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Laser Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 17}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Lasgun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 17}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "6 syringes", "py/object": "__main__.item", "name": "Painkillers", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 17}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Andrew Rice", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 5", "modificators": []}, "Foreigner": {"inventory": [{"ammo": "stuff", "py/object": "__main__.item", "name": "Medical Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Sword (one-handed Wakizashi)", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Energy Shield", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Scottish Wool Scarf", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Tweed Coat", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "Sharp+explosive, sticky+flare, sticky+cable reel, barbed+solid", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Light Suit Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 78}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Foreigner", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 3", "modificators": []}, "Francis": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "Horn", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 89}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "sticky+flare, syringe+tranq, sticky+cable, suction+tracker", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 89}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Crowbar", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 89}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Francis", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 4", "modificators": []}, "Aegagrus": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "Sword (one handed)", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 0}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Laser Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 0}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Grapple set", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 0}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Aegagrus", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 2", "modificators": []}, "Clara Lesaille": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "PSI Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 45}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Light Suit Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 45}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "nanobots son", "py/object": "__main__.item", "name": "Nanobot Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 45}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Telepathic Amp Unit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 45}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "stuff", "py/object": "__main__.item", "name": "First Aid Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 45}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Clara Lesaille", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 3", "modificators": []}, "Snakesilk": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Snakesilk", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 6", "modificators": []}, "Unit4965": {"inventory": [{"ammo": "1 round", "py/object": "__main__.item", "name": "Gauss Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 169}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "full canister (10 minutes)", "py/object": "__main__.item", "name": "Blowtorch", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 169}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Thruster Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 169}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Unit4965", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 2", "modificators": []}, "Aliss Maroon": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Aliss Maroon", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 6", "modificators": []}, "Hema": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "Nanite-Sealed Suit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 95}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 95}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "Barbed+cable reel, Syringe+teargas, syringe+explosive, syringe+acid", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 95}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "1 napalm, 1 explosive, 1 proximity", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 95}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Hema", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 2", "modificators": []}, "Marcson Tobar": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Marcson Tobar", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 5", "modificators": []}, "Blake Lowe": {"inventory": [{"ammo": "charged", "py/object": "__main__.item", "name": "Lasgun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 32}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "6 rounds", "py/object": "__main__.item", "name": "Semiautomatic Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 32}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "6 rounds", "py/object": "__main__.item", "name": "Semiautomatic Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 32}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "6 syringes", "py/object": "__main__.item", "name": "Coagulant Boosters", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 32}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Blake Lowe", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 3", "modificators": []}, "Taepilus": {"inventory": [{"ammo": "full canister", "py/object": "__main__.item", "name": "Blowtorch", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 140}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "Sharp+solid, Incendiary+oil, Sticky+cable reel, magnetic+explosive", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 140}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Electron Sword", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 140}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Taepilus", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 1", "modificators": []}, "Taniya Aljahnar": {"inventory": [{"ammo": "", "py/object": "__main__.item", "name": "Light Suit Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 146}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Energy Shield", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 146}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "PSI Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 146}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "OMEGA Gun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 146}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Telepathic Amp Unit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 146}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Taniya Aljahnar", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 2", "modificators": []}, "Trig": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Trig", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 6", "modificators": []}, "Brecalus": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Brecalus", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 5", "modificators": []}, "Chavez Bastira": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Chavez Bastira", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 5", "modificators": []}, "Dinosawer": {"inventory": [{"ammo": "charged", "py/object": "__main__.item", "name": "Plasma Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 53}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "ElectroRifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 53}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "Blunt+explosive, Blunt+teargas, Barbed+cable reel, syringe+tranquiliser", "py/object": "__main__.item", "name": "Crossbow", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 53}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Energy Shield", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 53}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "left leg", "py/object": "__main__.item", "name": "Armored Bodypart", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 53}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Dinosawer", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 4", "modificators": []}, "BFett": {"inventory": [{"ammo": "30 rounds", "py/object": "__main__.item", "name": "Assault Rifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 24}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "3 frag", "py/object": "__main__.item", "name": "Grenade Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 24}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Light Suit Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 24}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Goat Skull Helmet", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 24}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "Laser Pistol", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 24}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "BFett", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 1", "modificators": []}, "Fallen": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Fallen", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 5", "modificators": []}, "Kalla": {"inventory": [], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Kalla", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 6", "modificators": []}, "Squidhead": {"inventory": [{"ammo": "charged", "py/object": "__main__.item", "name": "Lasgun", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "charged", "py/object": "__main__.item", "name": "ElectroRifle", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "PSI Pack", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "stuff", "py/object": "__main__.item", "name": "Advanced Medical Kit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "", "py/object": "__main__.item", "name": "Light Armor", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}, {"ammo": "none", "py/object": "__main__.item", "name": "Mass Manipulation Amp Unit", "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "owner": {"py/id": 131}, "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}}], "skills": {"General Knowledge": 0, "Handiwork": 0, "Intuition": 0, "Unconventional Weapons": 0, "Charisma": 0, "Conventional Weapons": 0, "Auxiliary": 0, "Exotic": 0}, "py/object": "__main__.actor", "name": "Squidhead", "stats": {"Computer": 0, "PSI Unit": 0, "Maneuverability": 0, "Durability": 0, "Energy": 0, "Engines": 0, "Robotics": 0, "Hacking Systems": 0}, "extra": "Squad 4", "modificators": []}}
+{
+  "Aegagrus": {
+    "id": "I01C",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I01E",
+        "owner": {
+          "py/id": 0
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Sword (one handed)"
+      },
+      {
+        "id": "I01D",
+        "owner": {
+          "py/id": 0
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Laser Pistol"
+      },
+      {
+        "id": "I01F",
+        "owner": {
+          "py/id": 0
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Grapple set"
+      }
+    ],
+    "name": "Aegagrus",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 2",
+    "py/object": "__main__.actor"
+  },
+  "Clara Lesaille": {
+    "id": "I038",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I03C",
+        "owner": {
+          "py/id": 45
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "PSI Pack"
+      },
+      {
+        "id": "I03D",
+        "owner": {
+          "py/id": 45
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Light Suit Armor"
+      },
+      {
+        "id": "I03B",
+        "owner": {
+          "py/id": 45
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "nanobots son",
+        "name": "Nanobot Pack"
+      },
+      {
+        "id": "I03A",
+        "owner": {
+          "py/id": 45
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Telepathic Amp Unit"
+      },
+      {
+        "id": "I039",
+        "owner": {
+          "py/id": 45
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "First Aid Kit"
+      }
+    ],
+    "name": "Clara Lesaille",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 3",
+    "py/object": "__main__.actor"
+  },
+  "Amenra": {
+    "id": "I002",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I005",
+        "owner": {
+          "py/id": 9
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "3 grenades",
+        "name": "Grenade Pack"
+      },
+      {
+        "id": "I003",
+        "owner": {
+          "py/id": 9
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      },
+      {
+        "id": "I004",
+        "owner": {
+          "py/id": 9
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "30 rounds",
+        "name": "Assault Rifle"
+      },
+      {
+        "id": "I006",
+        "owner": {
+          "py/id": 9
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "1 round",
+        "name": "Gauss Rifle"
+      },
+      {
+        "id": "I007",
+        "owner": {
+          "py/id": 9
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Heavy Suit Armor"
+      }
+    ],
+    "name": "Amenra",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 1",
+    "py/object": "__main__.actor"
+  },
+  "Rikke": {
+    "id": "I075",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I077",
+        "owner": {
+          "py/id": 122
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Tesla Gun"
+      },
+      {
+        "id": "I076",
+        "owner": {
+          "py/id": 122
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Crowbar"
+      },
+      {
+        "id": "I078",
+        "owner": {
+          "py/id": 122
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "3 grenades",
+        "name": "Grenade Pack"
+      }
+    ],
+    "name": "Rikke",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 6",
+    "py/object": "__main__.actor"
+  },
+  "Dinosawer": {
+    "id": "I04F",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I051",
+        "owner": {
+          "py/id": 53
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Plasma Rifle"
+      },
+      {
+        "id": "I052",
+        "owner": {
+          "py/id": 53
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "ElectroRifle"
+      },
+      {
+        "id": "I053",
+        "owner": {
+          "py/id": 53
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Blunt+explosive, Blunt+teargas, Barbed+cable reel, syringe+tranquiliser",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I054",
+        "owner": {
+          "py/id": 53
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Energy Shield"
+      },
+      {
+        "id": "I050",
+        "owner": {
+          "py/id": 53
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "left leg",
+        "name": "Armored Bodypart"
+      }
+    ],
+    "name": "Dinosawer",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 4",
+    "py/object": "__main__.actor"
+  },
+  "BFett": {
+    "id": "I008",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I00A",
+        "owner": {
+          "py/id": 24
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "30 rounds",
+        "name": "Assault Rifle"
+      },
+      {
+        "id": "I00B",
+        "owner": {
+          "py/id": 24
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "3 frag",
+        "name": "Grenade Pack"
+      },
+      {
+        "id": "I00C",
+        "owner": {
+          "py/id": 24
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Light Suit Armor"
+      },
+      {
+        "id": "I00D",
+        "owner": {
+          "py/id": 24
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Goat Skull Helmet"
+      },
+      {
+        "id": "I009",
+        "owner": {
+          "py/id": 24
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Laser Pistol"
+      }
+    ],
+    "name": "BFett",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 1",
+    "py/object": "__main__.actor"
+  },
+  "Foreigner": {
+    "id": "I042",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I043",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "Medical Kit"
+      },
+      {
+        "id": "I045",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      },
+      {
+        "id": "I044",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Sword (one-handed Wakizashi)"
+      },
+      {
+        "id": "I047",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Energy Shield"
+      },
+      {
+        "id": "I048",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Scottish Wool Scarf"
+      },
+      {
+        "id": "I049",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Tweed Coat"
+      },
+      {
+        "id": "I046",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Sharp+explosive, sticky+flare, sticky+cable reel, barbed+solid",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I04A",
+        "owner": {
+          "py/id": 78
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Light Suit Armor"
+      }
+    ],
+    "name": "Foreigner",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 3",
+    "py/object": "__main__.actor"
+  },
+  "Fawkes": {
+    "id": "I03E",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I041",
+        "owner": {
+          "py/id": 72
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "1 round",
+        "name": "Gauss Rifle"
+      },
+      {
+        "id": "I040",
+        "owner": {
+          "py/id": 72
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Lasgun"
+      },
+      {
+        "id": "I03F",
+        "owner": {
+          "py/id": 72
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "First Aid Kit"
+      }
+    ],
+    "name": "Fawkes",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 3",
+    "py/object": "__main__.actor"
+  },
+  "Karthus": {
+    "id": "I014",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I017",
+        "owner": {
+          "py/id": 113
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "1 round",
+        "name": "Gauss Rifle"
+      },
+      {
+        "id": "I015",
+        "owner": {
+          "py/id": 113
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Lasgun"
+      },
+      {
+        "id": "I016",
+        "owner": {
+          "py/id": 113
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "30 rounds",
+        "name": "Assault Rifle"
+      }
+    ],
+    "name": "Karthus",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 1",
+    "py/object": "__main__.actor"
+  },
+  "Zorathex": {
+    "id": "I04B",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I04E",
+        "owner": {
+          "py/id": 175
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Blunt+explosive, Sharp+solid, Syringe+tranq, magnetic+tracer",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I04D",
+        "owner": {
+          "py/id": 175
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      },
+      {
+        "id": "I04C",
+        "owner": {
+          "py/id": 175
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "Medical Kit"
+      }
+    ],
+    "name": "Zorathex",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 3",
+    "py/object": "__main__.actor"
+  },
+  "Francis": {
+    "id": "I055",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I058",
+        "owner": {
+          "py/id": 89
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Horn"
+      },
+      {
+        "id": "I056",
+        "owner": {
+          "py/id": 89
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "sticky+flare, syringe+tranq, sticky+cable, suction+tracker",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I057",
+        "owner": {
+          "py/id": 89
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Crowbar"
+      }
+    ],
+    "name": "Francis",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 4",
+    "py/object": "__main__.actor"
+  },
+  "Marcson Tobar": {
+    "id": "I072",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Marcson Tobar",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 5",
+    "py/object": "__main__.actor"
+  },
+  "Squidhead": {
+    "id": "I05F",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I062",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Lasgun"
+      },
+      {
+        "id": "I063",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "ElectroRifle"
+      },
+      {
+        "id": "I064",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "PSI Pack"
+      },
+      {
+        "id": "I060",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "Advanced Medical Kit"
+      },
+      {
+        "id": "I065",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Light Armor"
+      },
+      {
+        "id": "I061",
+        "owner": {
+          "py/id": 131
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Mass Manipulation Amp Unit"
+      }
+    ],
+    "name": "Squidhead",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 4",
+    "py/object": "__main__.actor"
+  },
+  "Snakesilk": {
+    "id": "I079",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Snakesilk",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 6",
+    "py/object": "__main__.actor"
+  },
+  "Aliss Maroon": {
+    "id": "I073",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Aliss Maroon",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 6",
+    "py/object": "__main__.actor"
+  },
+  "Taniya Aljahnar": {
+    "id": "I025",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I028",
+        "owner": {
+          "py/id": 146
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Light Suit Armor"
+      },
+      {
+        "id": "I029",
+        "owner": {
+          "py/id": 146
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Energy Shield"
+      },
+      {
+        "id": "I02A",
+        "owner": {
+          "py/id": 146
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "PSI Pack"
+      },
+      {
+        "id": "I026",
+        "owner": {
+          "py/id": 146
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "OMEGA Gun"
+      },
+      {
+        "id": "I027",
+        "owner": {
+          "py/id": 146
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Telepathic Amp Unit"
+      }
+    ],
+    "name": "Taniya Aljahnar",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 2",
+    "py/object": "__main__.actor"
+  },
+  "Fallen": {
+    "id": "I071",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Fallen",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 5",
+    "py/object": "__main__.actor"
+  },
+  "Brecalus": {
+    "id": "I06F",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Brecalus",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 5",
+    "py/object": "__main__.actor"
+  },
+  "Taepilus": {
+    "id": "I018",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I019",
+        "owner": {
+          "py/id": 140
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "full canister",
+        "name": "Blowtorch"
+      },
+      {
+        "id": "I01B",
+        "owner": {
+          "py/id": 140
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Sharp+solid, Incendiary+oil, Sticky+cable reel, magnetic+explosive",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I01A",
+        "owner": {
+          "py/id": 140
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      }
+    ],
+    "name": "Taepilus",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 1",
+    "py/object": "__main__.actor"
+  },
+  "Tulius": {
+    "id": "I02B",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I02D",
+        "owner": {
+          "py/id": 163
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "full canister",
+        "name": "Blowtorch"
+      },
+      {
+        "id": "I02E",
+        "owner": {
+          "py/id": 163
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "3 thermate grenades",
+        "name": "Grenade Pack"
+      },
+      {
+        "id": "I02C",
+        "owner": {
+          "py/id": 163
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "magnetic+cable reel, sharp+cable reel, sticky+explosive, syringe+acid",
+        "name": "Crossbow"
+      }
+    ],
+    "name": "Tulius",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 2",
+    "py/object": "__main__.actor"
+  },
+  "Tonon": {
+    "id": "I066",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I069",
+        "owner": {
+          "py/id": 154
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "6 rounds",
+        "name": "Semiautomatic Pistol"
+      },
+      {
+        "id": "I067",
+        "owner": {
+          "py/id": 154
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "none",
+        "name": "Crowbar"
+      },
+      {
+        "id": "I068",
+        "owner": {
+          "py/id": 154
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      }
+    ],
+    "name": "Tonon",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 4",
+    "py/object": "__main__.actor"
+  },
+  "Kai'isha": {
+    "id": "I059",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I05C",
+        "owner": {
+          "py/id": 102
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "PSI Pack"
+      },
+      {
+        "id": "I05D",
+        "owner": {
+          "py/id": 102
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Quantum Minidrone"
+      },
+      {
+        "id": "I05E",
+        "owner": {
+          "py/id": 102
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Quantum Minidrone"
+      },
+      {
+        "id": "I05B",
+        "owner": {
+          "py/id": 102
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "4 syringes",
+        "name": "Painkillers"
+      },
+      {
+        "id": "I05A",
+        "owner": {
+          "py/id": 102
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "stuff",
+        "name": "Medical Kit"
+      }
+    ],
+    "name": "Kai'isha",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 4",
+    "py/object": "__main__.actor"
+  },
+  "Blake Lowe": {
+    "id": "I033",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I034",
+        "owner": {
+          "py/id": 32
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Lasgun"
+      },
+      {
+        "id": "I036",
+        "owner": {
+          "py/id": 32
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "6 rounds",
+        "name": "Semiautomatic Pistol"
+      },
+      {
+        "id": "I037",
+        "owner": {
+          "py/id": 32
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "6 rounds",
+        "name": "Semiautomatic Pistol"
+      },
+      {
+        "id": "I035",
+        "owner": {
+          "py/id": 32
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "6 syringes",
+        "name": "Coagulant Boosters"
+      }
+    ],
+    "name": "Blake Lowe",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 3",
+    "py/object": "__main__.actor"
+  },
+  "Kalla": {
+    "id": "I074",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Kalla",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 6",
+    "py/object": "__main__.actor"
+  },
+  "Unit4965": {
+    "id": "I02F",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I031",
+        "owner": {
+          "py/id": 169
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "1 round",
+        "name": "Gauss Rifle"
+      },
+      {
+        "id": "I030",
+        "owner": {
+          "py/id": 169
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "full canister (10 minutes)",
+        "name": "Blowtorch"
+      },
+      {
+        "id": "I032",
+        "owner": {
+          "py/id": 169
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Thruster Pack"
+      }
+    ],
+    "name": "Unit4965",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 2",
+    "py/object": "__main__.actor"
+  },
+  "Chavez Bastira": {
+    "id": "I070",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Chavez Bastira",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 5",
+    "py/object": "__main__.actor"
+  },
+  "Dr Cha0zz": {
+    "id": "I00E",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I010",
+        "owner": {
+          "py/id": 61
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Syringe+tranq, sharp+solid, barbed+cable reel, sharp+acid",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I00F",
+        "owner": {
+          "py/id": 61
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      },
+      {
+        "id": "I011",
+        "owner": {
+          "py/id": 61
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Sticky frag, sticky EMP, frag",
+        "name": "Grenade Pack"
+      },
+      {
+        "id": "I012",
+        "owner": {
+          "py/id": 61
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Nanite-Sealed Suit"
+      },
+      {
+        "id": "I013",
+        "owner": {
+          "py/id": 61
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Labcoat"
+      }
+    ],
+    "name": "Dr Cha0zz",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 1",
+    "py/object": "__main__.actor"
+  },
+  "Andrew Rice": {
+    "id": "I06A",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I06B",
+        "owner": {
+          "py/id": 17
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Laser Pistol"
+      },
+      {
+        "id": "I06C",
+        "owner": {
+          "py/id": 17
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Laser Pistol"
+      },
+      {
+        "id": "I06D",
+        "owner": {
+          "py/id": 17
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Lasgun"
+      },
+      {
+        "id": "I06E",
+        "owner": {
+          "py/id": 17
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "6 syringes",
+        "name": "Painkillers"
+      }
+    ],
+    "name": "Andrew Rice",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 5",
+    "py/object": "__main__.actor"
+  },
+  "Trig": {
+    "id": "I07A",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [],
+    "name": "Trig",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 6",
+    "py/object": "__main__.actor"
+  },
+  "Hema": {
+    "id": "I020",
+    "modificators": [],
+    "stats": {
+      "Hacking Systems": 0,
+      "Maneuverability": 0,
+      "Robotics": 0,
+      "Computer": 0,
+      "Engines": 0,
+      "Energy": 0,
+      "PSI Unit": 0,
+      "Durability": 0
+    },
+    "inventory": [
+      {
+        "id": "I024",
+        "owner": {
+          "py/id": 95
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "",
+        "name": "Nanite-Sealed Suit"
+      },
+      {
+        "id": "I021",
+        "owner": {
+          "py/id": 95
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "charged",
+        "name": "Electron Sword"
+      },
+      {
+        "id": "I022",
+        "owner": {
+          "py/id": 95
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "Barbed+cable reel, Syringe+teargas, syringe+explosive, syringe+acid",
+        "name": "Crossbow"
+      },
+      {
+        "id": "I023",
+        "owner": {
+          "py/id": 95
+        },
+        "stats": {
+          "Hacking Systems": 0,
+          "Maneuverability": 0,
+          "Robotics": 0,
+          "Computer": 0,
+          "Engines": 0,
+          "Energy": 0,
+          "PSI Unit": 0,
+          "Durability": 0
+        },
+        "py/object": "__main__.item",
+        "skills": {
+          "General Knowledge": 0,
+          "Unconventional Weapons": 0,
+          "Exotic": 0,
+          "Conventional Weapons": 0,
+          "Handiwork": 0,
+          "Auxiliary": 0,
+          "Intuition": 0,
+          "Charisma": 0
+        },
+        "ammo": "1 napalm, 1 explosive, 1 proximity",
+        "name": "Grenade Pack"
+      }
+    ],
+    "name": "Hema",
+    "skills": {
+      "General Knowledge": 0,
+      "Unconventional Weapons": 0,
+      "Exotic": 0,
+      "Conventional Weapons": 0,
+      "Handiwork": 0,
+      "Auxiliary": 0,
+      "Intuition": 0,
+      "Charisma": 0
+    },
+    "extra": "Squad 2",
+    "py/object": "__main__.actor"
+  }
+}
