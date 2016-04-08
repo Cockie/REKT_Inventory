@@ -125,12 +125,12 @@ def updateTree():
     for child in tree.get_children():
         for entity in tree.get_children(child):
             temp = tree.item(entity)
-            collapsed[temp['text']] = True if (temp['open'] == 1 or temp['open'] == 'true') else False
+            collapsed[temp['text']] = (temp['open'] == 1 or temp['open'] == 'true')
         tree.delete(child)
     for key in allstuff:
         idr = tree.insert('', 'end', text=key + ":", values=("", ""), open=True)
         for playah in sorted(list(sorted(list(allstuff[key].values()), key=lambda t: t.name)), key=lambda t: t.extra):
-            opened = True
+            opened = False
             try:
                 opened = collapsed[playah.name]
             except Exception:
