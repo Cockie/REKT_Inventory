@@ -101,7 +101,6 @@ while keepgoing:
         htmlstr = str(htmlstr)
 
     # make new url for next attempt
-    "http://forums.ltheory.com/viewtopic.php?f=29&t=4512&start=765#p127211"
     startIndicator = int(url[url.find('start=') + 6:url.find('#')])
     newstart = startIndicator + 15
     url = url.replace('start=' + str(startIndicator), 'start=' + str(newstart))
@@ -110,8 +109,6 @@ while keepgoing:
     parsed_html = BeautifulSoup(htmlstr)
     prev_parsed_html = BeautifulSoup(prevhtmlstr)
     if prevhtmlstr != "":
-        print(parsed_html.body.find('div', attrs={'class': 'content'}).text)
-        print(prev_parsed_html.body.find('div', attrs={'class': 'content'}).text)
         if parsed_html.body.find('div', attrs={'class': 'content'}).text == prev_parsed_html.body.find('div', attrs={
             'class': 'content'}).text:
             # we reached the end of the thread
@@ -121,8 +118,7 @@ while keepgoing:
             prevhtmlstr = htmlstr
     else:
         prevhtmlstr = htmlstr
-    print("I'm here")
-
+    parsed_html.blockquote.decompose()
     links = [str(tag.find_all('a')[0]) for tag in parsed_html.body.find_all('p', attrs={'class': 'author'})]
     auths = [tag.find_all('a')[1].text for tag in parsed_html.body.find_all('p', attrs={'class': 'author'})]
     posts = parsed_html.body.find_all('div', attrs={'class': 'content'})
