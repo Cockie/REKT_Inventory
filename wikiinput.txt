@@ -1,0 +1,169 @@
++ **__72% COMPLETE (88% OF PRE-MISSION STUFF)__**
+--__Forum__--
+* --the main thread is a bit outdated compared to the rule page here--
+ * --specifically, copypaste death and mission:--
+  * --death still says the thing about total stat reset and doesn't include ship insurance--
+  * --missions still says you get "up to 10" xp points while it's just 10 now (it was like that on the wiki too, this has been ammended)--
+  * --made main thread stats/skills descriptions much clearer--
+__Wiki__
+* --Adding detailed stats or missing info to the individual equipment pages. Most of them are just detailed stats that are missing and aren't that important. I have indicated with ! the ones I think should be filled in before mission 3.--
+ * --[[[Conventional Weapons]]]--
+  * --[[[equip:Rocket SML]]] probably needs another rebalance with the ammo stuff--
+  * --rework [[[equip:Explosive Gauss Cannon]]]--
+  * --rework [[[equip:Heavy Gauss Cannon]]]--
+  * --take a look at [[[equip:PION Beam Cannon]]] balance, was intended to be halfway between electrolaser/particle gun and quantum cannon/neutron beam in strength and price--
+  * --[[[equip:Particle Gun]]] mentions being able to damage light armour--
+ * --[[[Unconventional Weapons]]]--
+ * --[[[Exotic Weapons]]]--
+  * --[[[equip:Biocellular Psychokinetic Amplifier]]] (can wait)--
+  * --[[[equip:Hypnosis Coil]]] (deets and ammo) (can wait)--
+  * --![[[equip:Warp Field Psyamp]]] (ammo)--
+  * --[[[equip:Nanomorph Gun]]] (deets)--
+ * --[[[Auxiliary systems]]]--
+  * --[[[equip:Non-Newtonian Armor]]] (can wait)--
+ * --[[[Robotics]]]--
+  * --[[[equip:Taser Rod Attachment]]]--
+  * --[[[equip:Blowtorch Attachment]]]--
+ * --[[[Conventional Infantry Gear]]]--
+  * --![[[equip:Gravity Gun]]]--
+ * --[[[Unconventional Infantry Gear]]]--
+  * --![[[equip:Laser Sword]]]--
+ * --[[[Exotic Infantry Gear]]]--
+  * --PSI stuff (remove reference to PSI pack, but I can do that too if you tell me to)--
+  * --![[[equip:Mass Manipulation Amp Unit]]]--
+  * --![[[equip:Electro Amp Unit]]] (rolls)--
+ * --[[[items-tools|Items & Tools]]]--
+  * --![[[equip:Crowbar]]]--
+  * --[[[equip:Painkillers]]]--
+  * --[[[equip:Anti Shock Meds]]]--
+ * --[[[Suit Upgrades]]]--
+  * --![[[equip:Reactive Armor]]]--
+  * --[[[equip:Hazmat Suit]]]--
+  * --[[[equip:Thruster Pack]]]--
+ * --[[[Anatomical Upgrades]]]--
+  * --[[[equip:Replacement Bodypart]]]--
+  * --[[[equip:Grown Bodypart]]]--
+   * --(( I copied these over from the old remnant page we had - check if still correct pls? ~Dino))--
+  * --[[[equip:Armored Bodypart]]]--
+ * --Handiwork Kits:--
+  * --![[[equip:Mobile Workstation]]]--
+  * --low tier weapons craftkit--
+  * --low tier weapons partkit--
+  * --low tier aux craftkit--
+  * --low tier aux partkit--
+  * --low tier structural partkit--
+  * --low tier structural craftkit--
+  * --low tier robotics partkit--
+  * --low tier robotics craftkit--
+  * --giant total repricing rewrite thing--
+* Armoury to add stuff
+ * Things listed on the [[[Armory to add list|Armoury to add list]]]
+  * --PION Beam Cannon--
+  * --Gatling Plasma Cannon--
+  * --Chainsaw attachment--
+  * --Swiveling side engines--
+  * --Auxiliary Hardpoint Attachment--
+  * --Drill bit--
+  * --Circular Saw attachment--
+  * --Arm Mounted Spectral Imager--
+  * --Transponder Dish--
+  * --Broadcast Enhancer Dish--
+  * --Peripheral Hacking Computer--
+  * --Scout drones (small upgrade to make them useful again)--
+  * --Command and Control center--
+  * --Autoturret--
+  * --Stealth Field Module--
+  * --Jump Pack--
+  * --Rocket Boots--
+  * --COFFIN--
+  * --STITCH--
+  * --VISION Helmet--
+  * --TARGET helmet--
+  * --PSI Helmet--
+  * --Eldritch Helmet--
+  * --Standard helmet--
+  * --Charismatic amp unit--
+  * --total psi rewrite--
+  * --Stasis Field Amp Unit--
+  * --The Rubber Ducky--
+  * --Dropshield--
+  * --TheRMOS--
+  * --Claymore Pack--
+  * --FAST Artillery Support Platform--
+  * --Powered Weapon Retrieval Device--
+  * --Door Breaching Kit--
+  * --Standard Suit--
+  * --Crystal Coated Suit--
+  * --Miniature Active Radar Scanner--
+  * --Null Field Amp Unit--
+  * --Infantry auxiliary craftkit--
+  * --Infantry robotics craftkit--
+  * --Infantry structural craftkit--
+  * --Infantry weapons craftkit--
+  * --Infantry auxiliary partkit--
+  * --Infantry robotics partkit--
+  * --Infantry structural partkit--
+  * --Infantry weapons partkit--
+  * --Retractable flail--
+  * --Ship AI--
+  * --Nanobot Globule--
+  * RMBLR
+  * Gravity Amp Unit
+  * Inorganic Object Teleporter
+  * Cymek rebooting kit (wake up fainted cymeks because they can't use antishock meds and stuff)
+  * some more infantry PSI stuff (see also [http://forums.ltheory.com/viewtopic.php?f=29&t=4692&start=210#p126349 armoury thread thing]) (still or did I suggest enough? ~Dino)
+ * --Check later additions [http://forums.ltheory.com/viewtopic.php?f=29&t=4692&start=240#p126791 in the thread]--
+ * whatever else is brewing in Tal's brilliant mind (Lol ~Tal)
+  * --Page for training programs--
+  * --Mentoring Program--
+  * [[[stat:Durability]]] needs fainting rules for cyborgs, androids and cymeks [http://forums.ltheory.com/viewtopic.php?f=29&p=127249#p127240 discussion thread]
+  * --[[[stat:PSI]]] needs a look at the fainting/shock/panic rules: 3-6 is ambiguous (in the first table it seems to exclude 3 and 6, in the second table 3-5 includes 3 and 5). And it's literally impossible to faint, since you add at most +3 to a level that cannot be higher than 4, which can't give 8. I wrote a quick program to simulate it, it's on dropbox in the REKT inventory folder as shock.py.--
+  * --Multi-roll for scanning stuff with the pda, proposed suggestions:--
+   * --PDA is a "bonus weapon" you can do all your weapon rolls and take one scan, once you start taking more than one scan it eats away from your weapons actions.--
+   * --PDA works as a weapon, from the moment you do a scan it eats away from your weapon actions, no "free" scans.--
+   * --Amount of scans that can be done per turn is dependent on the robotics skill.--
+   * --Advanced PDA that lets you do more than one scan if you buy it.--
+  * --Multi-roll for to-buy infantry tools (like medkits): if you buy x of them, can you use them x times per turn? (1 use for each item you've bought per turn)-- no
+  * Clarify armour rules in
+   * --[[[equip:Light suit armor]]]--
+   * --[[[equip:Heavy Suit armor]]]--
+   * [[[equip:Armored Bodypart]]] (I copied it over from light armour, but a) check that b) the description says "can take a bullet swarm", prolly not accurate :p)
+  * --Clarify armour penetration of infantry weapons (e.g. the [[[equip:assault rifle]]] says it's not good against armour yet penetrated light armour with ease in VR): I made a guesstimate on basis of your armor description in [[[inf weapon damages]]], maybe you can start from there (or correct that and let me copy it to the individual pages)--
+ * Level up NPC's and load them out (we can do that to with your permission)
+  * --[[[inmate:Clara Lesaille]]]--
+  * --[[[inmate:Kai'isha]]]--
+  * --[[[inmate:Aliss Maroon]]], [http://forums.ltheory.com/viewtopic.php?f=29&t=4473&p=127000#p126993 suggestion], yay or nay? (~Dino)--
+  * --[[[inmate:Kalla]]], [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127396#p127396 suggestion]-- Yes (Done, noticed we hadn't given her the sidecar cred yet so I gave her another sidecar for that ~Dino)
+  * --[[[inmate:Fallen]]], [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127396#p127396 suggestion]-- Yes (Done)
+  * [[[inmate:Rikke]]] (stats already levelled) (anewchallenger was gonna do this)
+  * [[[inmate:Taniya Aljahnar]]] (Hema was gonna do this)
+  * --[[[inmate:Trig]]] (stats already levelled), [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127396#p127396 suggestion]-- Yes, and sorry about the -2 man (*sighs* Done :V)
+  * [[[inmate:Lugg D]]] (loadout)
+  * [[[inmate:Cindrina Milson]]] (loadout - why does she only have 4 creds?)
+  * --Iquilah and Lug have a different name in their url's and page, which is correct?-- (renamed, went by the ones you used in thread ~Dino)
+ * LATER (when mission is started and stuff)
+  * Add other armoury things:
+   * Atomic Hammer
+   * Tank Drone
+   * Combot
+   * CERNIN
+   * Replace infantry respec with mech suit (Corn also had [http://forums.ltheory.com/viewtopic.php?f=29&t=4692&start=135#p119803 a thing] about the mech thing, this should prolly be in before mission 3 since Corn wants one)
+   * Ship specialisation (can wait, don't think anyone wants/can afford this right now)
+   * [[[equip:High Tier Weapons CraftKit]]]
+   * [[[equip:High Tier Weapons PartKit]]]
+   * rebalance high tier kit prices (can wait)
+  * Ponder over the stuff in [[[http://lt-rekt.wikidot.com/armory-to-add-list#toc36 | "Maybe"]]] and add or remove as needed
+  * Read the [http://forums.ltheory.com/viewtopic.php?f=29&t=4933 Character Stories], take notes and decide what's canon and what's not, or something.
+  * Make a correct version of the tree on [[[alien abilities]]] there was something wrong with 6 and 7 of tier 2 iirc
+  * Go through all infantry weapons and add armor penetration to the ones that are lacking it (people can just ask you about the ones they're interested in for now and we can add one by one)
+  * Fix [[[equip:Blunderbuss]]] - add new fun stuff, remove old dumb stuff ((have looked it over and decided that I can't really think of anything else to add just yet, and outlander's insta-stick globs need heavily balanced anyway because they're basically a one-shot-kill god weapon at the moment ~Tal)) ((okay, we have enough fun stuff for it now anyway
+ * AND THEN: for the patreon rewards:
+  * We need a thread about Warp drives and their lore (Silverware)
+  * we need to fill out the technology page(s)? (Cha0zz)
+  * --Need more work on the Mimir Corporation page (Charley)--
+  * Need to give Victor his own major character page (Victor)
+  * --Whatever you feel like :V if you're starved for ideas, perhaps Tartarus history? If that's not too much spoilers (~Dino)--
+  * I owe you guys pictures. GIVE ME PICTURE SUGGESTIONS SO I KNOW WHAT TO MAKE
+   * The Tartarus? Too big? :V (~Dino)    Yeah, definitely. Can't possibly manage that in three hours. ._. (~Tal) Maybe finish the boarbear thing you started a while back? That looked quite done back then and we have no shiny image for it on the wiki (~Dino)  You keep picking the most complicated projects. xD (~Tal) woops >.> How about nice renders of the HAMMER and/or ShieldMaiden and/or Carrier? I know you have the models, but the renders we have I had to cut out of some image I found on your imgur and are kinda lo-res and tiny (or non-existant for the HAMMER) (~Dino)
+   * Some stuff on the  technology needs pictures (HAMMER, boarbear?, quantum mini-turret, quantum minidrone) (~Cha0zz)
+   * Maybe it would be cool if we also started to add models for the weapons? (~Cha0zz)
