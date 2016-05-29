@@ -1,0 +1,162 @@
+Dinosawer
+====
+7
+====
+22
+====
+Male
+====
+Fascinated by things that go fast from an early age after an infamous gocarting race. Signed up for pilot academy, graduated with high marks, with professors marking "Yes, yes, you pass! Now let me out of this flying death machine!"
+Became a stunt pilot after being refused for the military due to "dangerous flying behaviour".
+
+[[collapsible show="+ Detailed backstory" hide="- Detailed backstory"]]
+"How I got here? That’s kind of a long story...truth be told, not like we have anything else to do right now. Allright.
+It kind of started a long time ago, when I was … 10 I think? We lived on Proioxis, a planet in a fairly quiet system at the root of the Orion arm, at the outer part of the inner rim. It wasn't quite as rich as New Earth and the like, but it was a nice place to live.
+Now, when I was about ten, the village I lived in had this event with a soap box race. As you can imagine, I pestered my dad into letting me participate. He eventually gave me access to his workshop and a bunch of parts - wheels, planks, screws all the stuff you need.
+Eventually - and with a bit of his help, since I've never been very handy - I had a nice soapbox to go to the race with.
+I then tested it on a hill nearby our house. It was good… but small me thought it didn't go fast enough.
+So when my dad was away I sneaked around the house, stole our fire extinguishers and got to work to mount them on the cart. It took me a while, and I needed to remove some non-essential parts, but eventually I got them mounted on the cart, rigged up to a lever, and covered in some wood planks so my dad wouldn't notice what I’d done. I just painted the whole red with some yellow stripes and told him I did it to make it look cooler.
+A week or two later, the actual race came. When I was about a third down, I found myself drifting towards the end of the pack, and I decided to activate my secret weapon. I pulled the lever, foam started spouting out of the extinguishers and my cart flew forward. I dodged and weaved between the other carts, wind blowing my hair backwards, and I felt something new - an exhilarating adrenalin rush, causing me to whoop as I flew down the hill.
+Way too soon I reached the bottom and tried to use the brake to stop so I wouldn't hit the people waiting behind the finish line...and then I noticed the brakes were one of the non-essential parts I removed.
+Oops.
+I decided to stop by doing a bootleg turn, which worked...but also covered a dozen people in extinguishing foam, including the mayor. 
+He wasn't very cool about it and I was disqualified from the race. Apparently you aren’t supposed to use propulsion in a soapbox race. What kind of lame rule is that?
+My dad wasn't too pleased either, but on the other hand he had to contain himself not to start laughing at the sight of our pompous mayor covered in white foam, so I got off fairly lightly.
+That race awakened a new passion I never knew I had, and I really got into VR racing games, and eventually discovered flight sims. I spent most of my high school time playing Frospace, Aerospace Sim and Interstellar Cargo Ship Simulator; and reading Hypernet pages about types of spaceships. Luckily I got a good memory, so I passed my actual classes without much of a problem.
+When I was 16, after a lot of begging and talking into my parents, they finally let me go to the Proioxis Aerospace academy, a prestigious school that trains people for aerial and space flight with various types of craft, and some combat training to boot.
+I passed the entrance exam with flying colours, of course. 
+Flight school was like heaven - learning to fly frigates, corvettes, cargo ships, aerial jets, small space fighters… I liked the dogfighting most, but the rest was fun too.
+Four years passed way too fast, and then it was time for my exams. Now, a fair share of flight school is done in VR, of course, especially early on, but Proioxis Aerospace was a bit old-fashioned and still used as many practical examinations as possible, which I thought was pretty cool.
+The first part was interstellar navigation - we had to fly a frigate to a station a few warpjumps away, and then dock it. Apparently I went a little fast when docking, but I didn't crash or something, so that part went well.
+Next up was our infantry combat exam - we were put in a frigate-like decor, and got very low-power laser guns and photon-sensitive suits that temporarily paralyse parts of your body when it gets hit - so it would be like real combat without actually getting injured. We were split up in two teams - one team had to defend the frigate, and the other team (my team) had to board and take it over. Our team won without any “casualties”. I got some remarks from the professors afterwards - apparently you’re supposed to fire from cover and advance when it’s clear and not fire while storming into the hallway and then wallrun-kicking people unconscious. Still, I took out half of the opposing team on my own and didn't get hit, so they couldn't do anything but let me pass.
+After that we got our dogfighting exam, which was in VR, for obvious reasons. That went well too - they were wondering why I shouted an old Japanese name for tiny trees when I went into battle, and they commented that strafing aileron rolls, while superior in evading, are a lot harder than simply strafing, but I pulled it off, so no problems there.
+Last part was flying a passenger ship between two stations, around an asteroid field. Well, that was what we were supposed to do. I decided to save some time and go through it. 
+The examiners didn't agree, for some reason, saying the ship wasn't manoeuvrable enough to get through a field of that density. I tried explaining to them that, with the Hermes Mk. II, you can override the grav controllers in such a way that they act like an extra RCS system, giving you the manoeuvrability you need, but they wouldn't listen. They even tried to come to the front and override the controls, so I shut the plexiglass door to the cockpit and locked them into the passenger cabin.
+The trip through the field went fine, as I told them - I heard them shout stuff when we passed asteroids closely, and I assumed they were cheering, so I gave some extra thrust to make things more fun. They shouted more after that, so I thought it was working.
+After some time (a record time, apparently) we docked with the other station, not a single scratch on the ship. I looked backwards and asked how I did. They answered “Yes, yes, you pass! Now let us out of this flying death machine!" They looked a bit pale, must've been the excitement.
+A week or two later, I got my diploma; apparently I got record high grades.
+I tried to get into the academy as teacher, but they never responded to my emails and the doors were locked when I went there myself. Rude.
+So, as backup plan, I applied for the Proioxian Space Army. I had to go through an entrance test in VR first - I was in a fighter ship, and had to fight off waves of fighters being launched from a nearby carrier. The first wave was just a single fighter, to start off easy. I recognised the ship - a Pluto Mk. 1. As you might know, a quite advanced ship, and it eschews the traditional cockpit for a strongly armoured cabin and a VR sensor array, making it a lot harder to take down. It has a fatal flaw though - the power cable for the cockpit sensor array pokes outside for a tiny part. Of course, to reach that part you have to get in point blanc of its dual Gatling guns, which is kind of a deterrent to use that flaw, but if you dodge and weave in the right way and get a bit lucky you can evade those and slice through the cable, effectively making the pilot blind and deaf of what’s going on outside. Which is exactly what I did.
+The next step was cutting a precise hole in the engines with my particle beam - the battery of the antimatter containment isn't shielded as well as Pluto inc. wants to make you believe. I knew that gave me about 30 seconds before the inevitable kaboom, so I used my electromagnetic clamps to dump the fighter into the carrier launch bay and get the hell out of there. The following nuclear chain explosion of the antimatter tanks in all the docked fighters ripped apart most of the carrier, ending the test, and only giving my ship minor scorch damage.
+I took of the VR goggles and saw the examining team looking at me perplexed - by my flying skills, no doubt. They let me out and told me they’d call me after they got in touch with some of my references at flight school. I figured it was in the bag. Alas, two weeks later they called me to let me know I was refused “due to too reckless flying behaviour”. What kind of rubbish is that? 
+A year later or so Pluto inc. released the Pluto Mk. 2, fixing some important flaws in the design of the Mk. 1. I never saw any dividend, though!
+Anyway, I was eventually contacted by a group that did stunt flying performances - they thought I’d be perfect for their team. I was out of options at the time and it sounded fun, so I agreed. I was initially supposed to join the team act, but nobody else was up for the stunts I proposed, so I became their solo act.
+We travelled a lot as most towns don’t need stunt performances twice in a short time. Those were fun times, I saw a lot of parts of Proioxis.
+Then, the fateful day came - we did a performance in the capital. It went great, the crowd gasped and went wild when I did my standard triple loop with spin, then stall and pull up 10 meters above the ground. I was last to land back on the airfield. And that was when I saw it. Right there on the same field as me.
+A real Ares Mk. 5 Deluxe! This thing is like the Ferrari of aerospace fighter ships - quintuple AM engines with vectorised nozzles, capable of breaking the sound barrier within 10 seconds after take-off, twin wing jet engines for aerial flight, the most powerful RCS system money can buy, allowing for incredible manoeuvring even in atmosphere, a real BlastWhoosh aerial afterburner and a brand new, only just invented warp propulsion afterburner system for space flying, allowing you to blast away at 0.0001c.
+And it was sitting right there, cockpit open, keys still in the contact. The pilot must've been to the bathroom or something.
+I knew I shouldn't, but… how could I not? Of course I got in and flew off with it. It flew like an absolute dream, I hit the afterburner and swiftly soared through the skies at Mach 2, making circles around the city, dashing between skyscrapers, and having a ton of fun. I decided to test the RCS system - the capital has this huge modern art monument thing with tons of holes and bars and stuff. I soared through the tunnels and holes in complicated weaving patterns, and the Ares never hit anything even on the sharpest turns...what a ship!
+Alas, that was when the fun ended, as I was suddenly attacked by police drones. Before I could get away, they hit the ship with a stasis field, setting it down without me being able to move a muscle, and I got arrested on accusation of terrorism.
+I tried to explain why I did it during the hearing, but for some reason they didn't believe anyone would do what I did for fun, and I got convicted and sent to Tartarus. And that’s why I’m here now."
+[[/collapsible]]
+====
+Nice person, but witty and a bit of a know-it-all.
+Reckless when taking risks brings along a possible high reward, or when it's fun. Not suicidally so though.
+Has learned that other people apparently object to blowing stuff up, and more importantly, pay him less when he does so.
+Cares a lot about his teammates and will come to their aid with complete disregard for personal safety.
+Dying has made him decide to better his gear to be able to do his thing and has not made him more careful at all. If anything he'll become more reckless because his upgrades make him feel invincible.
+====
+Arrested on accusation for terrorism for a stunt involving a national monument and a "borrowed" small fighter aircraft. I swear I wasn't going to hit it!
+====
+2
+====
+1	
+====
+2
+====
+-2
+====
+-2
+====
+-2
+====
+1
+====
+1
+====
+-1
+====
+-1
+====
+-1
+====
+2
+====
+1
+====
+-2
+====
+1
+====
+2
+====
+* [[[equip:Electrolaser]]]
+* [[[equip:Blunderbuss]]] + 2 extra ammo rounds 
+ * Remote Explosive
+ * Chaff
+ * Molten Shell
+ * Molten Shell
+ * Molten Shell
+* [[[equip:Quantum Cannon]]] on extra Weapon Mount
+* [[[equip:Cargo Pod]]]
+
+====
+* Knows Morse Code
+* Has FuturVision after touching an alien artefact - can see into the close future occasionally
+* Has Interdimensional Kleptomania - can take objects from other timelines into his
+* Knows how to fly a frigate
+* Knows parkour
+* Knows how to fire a plasma streamer
+====
+* [[[Mission 1]]] -- Squad 4 (leader)
+ * Destroyed a turret.
+ * Destroyed a mini-turret
+ * Has a mini-turret sample.
+ * Disabled/destroyed 4 large drones.
+ * Top engine and auxiliary cooling broken.
+ * Has a mostly intact disabled drone.
+ * Destroyed 3 small drones
+ * Chunk shot out of left leg calf
+ * Left foot blown up
+ * Had alien vision
+ 
+* [[[Mission 2]]] -- Squad 4 (leader)
+ * Saved Tonon
+ * 3 HAMMER assists
+ * Stole the southern shieldmaiden with Squidhead
+ * Stole 2 plasma streamers and a Charisomo Colonial Laser Pistol
+ * Destroyed 2 hangar AP turrets
+ * saved Kai'isha, probably
+ * 1 infantry soldier assist
+ * 1 OMEGA kill
+ * 1 HAMMER kill
+ * 3 infantry kills
+ * touched the orb and gained Interdimensional Kleptomania™
+ * saved Taniya, Blake and Aegagrus from a grenade
+ * killed Exosuitguy
+ * has exosuitguy's plasma gauntlet
+ * missing legs and pelvis
+ * planted beacon on objective
+ * died
+====
+BONSAAAIIII!!!
+====
+0
+====
+0
+====
+Combat
+====
+* [[[equip:Armored Bodypart]]] (full cymek body)
+* [[[equip:Rocket Boots]]]
+* [[[equip:Plasma Streamer]]]
+* [[[equip:Gauss Shotgun]]]
+* [[[equip:Electron Sword]]]
+====
+Corporal (3)
+====
+http://i.imgur.com/V3kxe5G.png
+====
+4
+====
+Dinosawer

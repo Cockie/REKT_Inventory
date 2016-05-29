@@ -1,0 +1,114 @@
+Foreigner
+====
+2
+====
+29
+====
+Male
+====
+Scott claims to be born and educated on Earth; he speaks calmly and slowly, with a soft European accent. He's neither short nor tall, neither slender nor fat - in fact, there's absolutely nothing worth mentioning about his appearance. Scott studied Terraforming and Planetary Ecology, and was one of the best students of his year. He worked for several years as a terraforming consultant before moving into the Rapid Terraforming Program on Kepler-438b.
+
+__Unrevealed info:__
+Kepler-438b had only the terraforming team living on it, consisting of 29 people (including Foreigner). Foreigner had discovered that the team had overlooked the presence of native bacterial life on the planet, and was planning on telling people about it so they would have to leave. The rest of the team didn't want to leave, though. They had even already officially formed a sovereign nation, and tried to convince Foreigner to drop it, but he wouldn't. It wasn't long before he overheard them planning to murder him, with his ex-girlfriend playing the primary role. This is why Foreigner killed off the population. The subsequent investigation also meant the bacterial life was discovered, and the planet was put into protected status.
+====
+Falls in love easily. Very kind and values friendship, but anti-social to the extreme; can turn even the smallest misunderstanding into a full-scale interplanetary war. Bipolar and unstable; generally patient and tolerant, but becomes homicidal if provoked too much. Usually composed, he's reckless when he goes on a rampage.
+Scott survived the first REKT mission with only minor - and mostly self-inflicted - injuries, but mentally he's become even more scarred and unstable. He laments his inability to save trans-dimensional people he has encountered during the mission, and finds the fact that he saved some of his squadmates (and several times for that!) to be a rather poor consolation.
+Scott managed to get through the second mission unscathed, and did his best to ensure the survival of the rest of the squad, who all made it out mostly unharmed except Blake and Fawkes. He feels more confident as a commander now, but the darkness within him has grown even bigger. He feels that the code of honour became very hard to uphold, and hopes to never have to execute a squadmate again.
+====
+Genocide. Scott killed off the entire population of Kepler-438b using terraforming machinery, for personal reasons he refused to disclose.
+====
+1
+====
+1	
+====
+2
+====
+-2
+====
+0
+====
+-2
+====
+1
+====
+1
+====
+0
+====
+2
+====
+0
+====
+-2
+====
+3
+====
+-2
+====
+1
+====
+-2
+====
+* [[[equip:COFFIN Aerial Fighter]]]
+* [[[equip:Tesla Arc Projector]]]
+* [[[equip:Blunderbuss]]]
+ * Remote Explosive
+ * Molten Shell
+ * Flare
+* [[[equip:Proton Sword]]] on extra [[[equip:Weapon Mount]]]
+====
+* Knows Morse Code
+* Can pilot a frigate
+* Knows "Tatketsai", one of Old Earth's Evolved Martial Arts. +1 to all unarmed rolls when he doesn't initiate a fight. 
+====
+* [[[Mission 1]]] -- Squad 3
+ * Destroyed a turret.
+ * Destroyed a small drone
+
+* [[[Mission 2]]] -- Squad 3
+ * 2 gunship turret kills
+ * 4 HAMMER asists
+ * Damaged shieldmaiden
+ * lost 1 pincer
+ * 2 infantry soldier kills
+ * Stole a shieldmaiden with his squad
+ * Took out upper hangar shields
+ * Confused upper hangar enemies with flare, resulting in more kills
+ * left side damaged
+ * scythe broken off
+ * severe damage to front
+ * ship spinning somewhere
+ * patched Fawkes' suit
+ * stole a HAMMER
+ * killed Chavez
+ * has Chavez' ship (landed on shieldmaiden)
+====
+Your bosses are really  missing on the experience of being put through the industrial soil-former. I have a firm opinion that their brains would work much better as a fertiliser.
+====
+0
+====
+0
+====
+Survival-Combat
+====
+* [[[equip:Medical Kit]]]
+* [[[equip:Electron Sword]]] on Quickdraw Holster
+* [[[equip:Crossbow]]] on Quickdraw Holster
+ * Sharp+explosive
+ * Sticky+flare
+ * Sticky+cable reel
+ * Barbed+solid
+* [[[equip:Sword]]] (one-handed [https://en.wikipedia.org/wiki/Wakizashi Wakizashi])
+* [[[equip:Energy Shield]]]
+* [[[equip:Light Suit Armor]]]
+* [[[equip:Scottish Wool Scarf]]]
+* [[[equip:Tweed Coat]]]
+
+====
+Sergeant (5.5)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+4
+====
+outlander4

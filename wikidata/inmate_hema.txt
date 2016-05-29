@@ -1,0 +1,92 @@
+Hema
+====
+10
+====
+25
+====
+Male 
+====
+A Human from Omicron 8, Hema abducted by a group of scientists at the age of 10, to be used in lab experiments. By the time he was 16, he had gained the trust of the people working there, and the sympathy of one of the guards, named Oro. With Oro's help, he was able to escape the facility, though the whole experience left him with occasional nightmares, and the experiments left him permanently disfigured. He hungered for revenge, and began to train for the purpose of destroying the team of deranged scientists. He got his revenge, at the age of 20, when he returned to the labs, and hacked into which he vented large quantities of airborne, flesh-eating bacteria, killing everyone inside.He was captured by the police soon after, due to the strange scarring on his face, that was the results of experimentation.
+====
+Quiet, and and easily angered, usually takes his anger out on the inanimate objects around him.
+====
+He killed everyone in the labs on Omicron 8 (some of them innocent), in a horribly gruesome and painful way.
+====
+0
+====
+0
+====
+1
+====
+-1
+====
+2
+====
+-2
+====
+0
+====
+0
+====
+0
+====
+1
+====
+0
+====
+-1
+====
+1
+====
+-2
+====
+0
+====
+0
+====
+* [[[equip:Microwave Field Manipulator]]]
+
+====
+Additional Knowledge
+====
+* [[[Mission 2]]] -- Squad 2 (leader)
+ * 1 science vessel turret kill
+ * 1 infantry soldier kill
+ * Destroyed 1 hangar AP turret
+ * Stole 2 plasma streamers
+ * 1 infantry soldier assist
+ * hurt by laser and grenade
+ * Touched the orb and got Alienvision
+ * Scanned the orb
+ * has a MIMIR scientist head
+ * has Aegagrus' head
+ * has a plasma bomb launcher
+====
+You have made a wrong move, Death.
+====
+0
+====
+10
+====
+Survival
+====
+* [[[equip:Nanite Sealed Suit]]]
+* [[[equip:Electron Sword]]]
+* [[[equip:Crossbow]]]
+ * Barbed+cable reel
+ * Syringe+teargas
+ * Syringe+explosive
+ * Syringe+acid
+* [[[equip:Grenade Pack]]]
+ * Napalm
+ * Explosive
+ * Proximity
+
+====
+Airman 1st Class (Honourary Corporal) (2) 
+====
+http://i.imgur.com/AiwySni.png
+====
+2
+====
+Hema

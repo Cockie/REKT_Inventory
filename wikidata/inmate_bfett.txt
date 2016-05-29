@@ -1,0 +1,100 @@
+BFett
+====
+0
+====
+25
+====
+Male
+====
+A hacker by trade, he attempted to slice into one too many banks and was caught before he could complete a funds transfer of 250,000 credits. He claims that he was framed and that he only used his knowledge about hacking to further the REKT program. Officials didn't buy the story when they discovered that the funds were being used to buy and sell stocks and happened to crash several small businesses. 
+
+**__Additional Background__**
+(The below conversation is from a bugged ship which recorded BFett's voice while transporting him to the Tartarus. BFett was sitting right next to the microphone so it only picked up his voice.)
+
+"They say I hacked into some bank and tried to steal a quarter of a million credits or something like that. They also accused me of using the funds to crash some small businesses. I played the stock market alright? It's not illegal, but they throw me away anyways. Yeah I failed... I never attempted the hack in the first place! I told them I was framed. I couldn't have used that money to do anything since I didn't have it. Would they listen... nooo.
+(A moment of silence)
+Unfortunately there aren't any lawyers available to cyber crooks on Karbad III. They busted their way into my house and I had no time to act. The rest is history."
+====
+A nice fellow who seems honest and sincere although he tends to keep to himself most of the time. 
+====
+Hacked into local banks and stole 250,000 credits. 
+====
+1
+====
+1 	
+====
+1
+====
+2
+====
+1
+====
+-1
+====
+-1
+====
+0
+====
+1
+====
+2
+====
+-2
+====
+2
+====
+0
+====
+-1
+====
+1
+====
+0
+====
+* [[[equip:mk-2-casket | Casket Mk 2]]]
+* [[[equip:Particle-gun | Particle Gun]]]
+* [[[equip:Neutron Beam Projector]]]
+* [[[equip:Peripheral Hacking Computer]]]
+* [[[equip:Transponder Dish]]]
+====
+* Knows of the Particle Gun hidden focus slider
+* Knows of the Lasgun's hidden dials
+* Can pilot a corvette
+====
+* [[[Mission 1]]] -- Squad 1
+ * Deactivated a turret
+ * Reactivated the turret and turned it into an ally
+ * Disabled a large drone
+ * Destroyed a small drone and disabled another
+
+* [[[Mission 2]]] -- Squad 1
+ * Disrupted gunship's aiming
+ * Blew up the gunship's main turret
+ * Disabled shieldmaiden's shields and turrets
+ * Reprogrammed the southern shieldmaiden's turrets to autofire on Mimir ships
+ * 4 HAMMER assists
+ * Unknown ship damage underneath
+====
+The hack failed. Take her out.
+====
+0
+====
+0
+====
+non-recon
+====
+* [[[equip:Assault-Rifle | Assault Rifle]]]
+* [[[equip:Semiautomatic-Pistol | Semiautomatic Pistol]]]
+* [[[equip:Laser Pistol]]]
+* [[[equip:Goat Skull Helmet]]]
+* [[[equip:Light Suit Armor]]]
+* [[[equip:Energy Shield]]]
+
+====
+Airman 1st Class (1.5)
+====
+http://i.imgur.com/laYH5BA.png
+====
+4
+====
+BFett

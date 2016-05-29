@@ -1,0 +1,69 @@
+Rikke
+====
+7
+====
+27
+====
+Female
+====
+Former citizen of U235, and an accomplice of [[[inmate:Tulius]]] by extension. She taught Tulius almost everything she knew, and he blew up the planet.
+====
+Can be fiery at times, but it tends to quickly fizzle out. Can't stand the thought of killing anyone or letting anyone die. Tenderhearted but tries to hide it if possible.
+====
+Was considered an accomplice of Tulius, the man who destroyed all life on planet U235
+====
+1
+====
+0
+====
+0    
+====
+-2
+====
+2
+====
+-1
+====
+0
+====
+0
+====
+-1
+====
+0
+====
+1
+====
+-2
+====
+2
+====
+-2
+====
+-1
+====
+0
+====
+
+====
+Additional Knowledge
+====
+Mission History
+====
+You're here for blowing up my home, I'm here because I taught you. ...I wish I hadn't.
+====
+0
+====
+10
+====
+Combat/Support
+====
+* [[[equip:Tesla Gun]]]
+* [[[equip:Crowbar]]]
+* [[[equip:Grenade Pack]]]
+====
+Cadet (-1)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+2

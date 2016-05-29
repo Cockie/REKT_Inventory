@@ -1,0 +1,97 @@
+Aliss Maroon
+====
+0
+====
+19
+====
+Female
+====
+Aliss is described as having unnaturally red hair (in all probability dyed) and a tendency to stand in the shadows. She mentions to [[[inmate:Kalla]]] after [[[mission:mission 2]]] that she lost her home and family at an early age, and found herself a slave during her younger teenage years.
+
+Aliss grew up in a quiet colony home on As'karra, an arid outer world with an ecosystem dominated by a mix of terrestrial and alien flora. When she was 8, slavers raided her settlement, murdered the rest of her family in front of her, and took her captive. They transported her to their headquarters - a repurposed asteroid in an unfamiliar system. Over the next four years they taught her a variety of common (and uncommon) household tasks. She was malnourished and hungry for much of the time, with little more to her name than a few scraps of cheap linen she called a dress, and a spot on the cold stone floor where she could sleep. After she turned 11, the slavers began giving her better meals and a nicer place to sleep. Aliss initially assumed it was because they were pleased with her progress, and worked harder to make her masters happy. Unfortunately, it was nothing like this at all: they were merely fattening her up so they could sell her, and sell her they did after she'd turned 12 - to a rich, corrupt outer world merchant named Naisos.
+
+Her life under Naisos was nothing short of a nightmare for young Aliss. Naisos treated her brutally - enough to make her wish she was back with the Slavers on the asteroid world. Naisos alternately beat and raped the young girl when he was displeased with her, leaving her with PTSD and an intense dislike of physical contact. Her life under him was a blur, and she was sincerely grateful on the day that pirates raided Naisos's trading barge. She was 15 at the time. Bound and gagged, she was hauled onto the pirate ship just as any of the other goods.
+
+Fortunately for Aliss, she was to see better days from then on.The pirate leader, Captain Liskerio, took a liking to Aliss and, while she was still treated as a slave, took much better care of her than her previous captors. He taught her various forms of fighting, training her in stealth and many varieties of weaponry. Two years later, Liskerio decided that the 17-year-old Aliss was ready, and began employing her as a spy.
+
+While this went well for a while, all good things must come to an end... no matter how little good exists in the rest of one's life.
+====
+Combative and defensive, Aliss doesn't tend to get along well with anyone who insults or criticizes her. She has a poor sense of self-worth, but acts as though she looks down on others; this is something of a defense mechanism as she doesn't actually think she's such a great person. This fiery exterior conceals... not much. She's still a rather combative person deep down, but would rather keep to herself if she could. She understands others can think of her as beautiful and tries to use this to her advantage at times.
+
+In tight situations, she's been known to flee to try to save herself; granted, while good at staying out of the line of fire, she's rather terrible at keeping herself together while under fire, and is a total wuss when it comes to enduring any sort of pain.
+====
+For roughly two years, Aliss served as a spy/agent combo for one of the outer worlds, bringing back intelligence information on Earth and its colonies. She became quite used to using her "feminine wiles" on foolish guards, and is rather good at both hand-to-hand combat and melee. Unfortunately, she always carried something of a chip on her shoulder, and this is eventually what got her caught; one of the guards she was seducing tased and arrested her when she spat out out a few choice insults after they attempted to coerce her into making good on her teasing.
+====
+2
+====
+-2
+====
+3 
+====
+-2
+====
+-2
+====
+-2
+====
+-2
+====
+2
+====
+-1
+====
+2
+====
+-2
+====
+2
+====
+1
+====
+0
+====
+-1
+====
+0
+====
+* [[[equip:Weapon Mount]]]
+* [[[equip:Blunderbuss]]]
+ * Molten Shell
+ * Molten Shell
+ * All-purpose chaff
+ * Proximity Explosive
+ * Proximity Explosive
+* [[[equip:Blunderbuss]]]
+ * Molten Shell
+ * Molten Shell
+ * All-purpose chaff
+ * Proximity Explosive
+ * Proximity Explosive
+* [[[equip:PION Beam Cannon]]]
+* [[[equip:Targeting Holocomputer]]]
+====
+Additional Knowledge
+====
+Mission History
+====
+Whatever. I don't even want to deal with this right now.
+====
+0
+====
+0
+====
+Survival/Combat
+====
+* [[[equip:Quickdraw Slot]]] 1 set of 2
+* [[[equip:Machine pistol]]]
+* [[[equip:sword | One-handed sword]]]
+* [[[equip:Assault Rifle]]]
+* [[[equip:Electron Sword]]]
+* [[[equip:Light Suit Armor]]]
+* [[[equip:Stealth Field]]]
+====
+Airman (1)
+====
+pic
+====
+4

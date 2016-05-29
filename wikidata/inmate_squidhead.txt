@@ -1,0 +1,115 @@
+Squidhead
+====
+12
+====
+ "Dunno, old"
+====
+"Forgot" (go with male)
+====
+ Squidhead has been around for a very long time, and spent most of that time with cybernetic experiments on himself and on others up to the point that he isn't recognisable as human anymore. Instead he looks more like a block of hardware with something that looks like a heavily modified old style brain tank in the middle of it and a couple of tentacles with omniports on their ends.
+The tentacles aren't exceptionally strong on their own, so he is quite slow and unmaneuverable in gravity, in zero-gee hes not that much faster, but handles himself much better than standard humans.
+The main body is a sphere of about one metre of diameter, it is pocked with empty module slots, heavy power sockets and structural connectors where the military grade hardware used to be mounted
+the arms are about 150cm long, armthick at the base, and taper down to about 2cm diameter fingers which are arranged in a five pronged star around an omniport in the middle of them.
+when standing in base gravity he stands to a bit less than 2 metres, with the respective lower tentacles work as legs, bowed and partially coiled to provide support
+with all that augmentations and the accompanying hardware changes in his cybernetic body and his cerebral interface hardware over his lifetime, he forgot quite a lot about his life, such as his initial name, gender, date of birth etc.
+questions about that are usually met with defensive behaviour.
+though, he forgot more than most people know in their life, and he still remembers a lot of things (especially on how to replace arms with industrial robotic systems)
+Through all his work on cybernetics he got quite a profound knowledge about surgery.
+He's no replacement for a trained doctor, but he can stitch you together if no alternative is available.
+Before he got REKT he had quite extensive military hardware on himself, plate armor, integrated weaponry, military grade hacking tools, the list goes on and on.
+His answer to the question of why he had all that hardware on him was "why not?"
+(Got a bit of basic weapon knowledge while mounting that stuff)
+Equipment got confiscated, which caused a bit of skill loss compared to his "former self" as some of "him" was in his hardware.
+====
+ Silent, tends to stay for himself, gets easily excited when having new "toys" to take apart or install into people. if he gets out of himself, he is quite friendly and enjoys to talk about his toys.
+Handles the topic of body modification without much restraint, and sees any regulation of it as unjustified.
+====
+Got caught while installing not approved augmentations in shady individuals.
+====
+1
+====
+1 (0 on foot) 	
+====
+1
+====
+-2
+====
+1
+====
+1
+====
+1
+====
+-2 (on foot: -1 _
+under gravity, _
++1 while weightless)
+====
+-2
+====
+1
+====
+2
+====
+1
+====
+-1
+====
+-2
+====
+1
+====
+1
+====
+* [[[equip:Advanced Repair Kit]]]
+* [[[equip:Enhanced Mounting Systems]]]
+* [[[equip:Sidecar Attachment]]]
+* [[[equip:Quantum Cannon]]] with [[[equip:Turret Upgrade]]]
+* [[[equip:Proton Sword]]] 
+====
+* Has MultiverseVision
+* Has... SomethingVision
+====
+* [[[Mission 1]]] -- Squad 4
+ * Destroyed a mini-turret
+ * Destroyed a large drone
+ * Disabled a large drone
+ * Has a mostly intact large drone
+ * Destroyed a small drone
+ * Has a big chunk of one of the consoles
+ * Has the Orb
+
+* [[[Mission 2]]] -- Squad 4
+ * Stole a shieldmaiden (with Dino)
+ * 5 infantry soldier kills
+ * minor tentacle damage
+ * destroyed shieldmaiden AP turret
+ * 1 HAMMER kill
+ * buffed the shields
+ * stunned Chavez
+ * damaged, missing 2 eyes
+ * did some various power and shield engineering on the Shieldmaiden
+ * has Dino's torso
+ * touched the orb and got a Thing
+====
+This is a quote for your character.
+====
+0
+====
+10
+====
+Support-Recon
+====
+* [[[equip:Lasgun]]]
+* [[[equip:ElectroRifle]]]
+* [[[equip:Advanced Medical Kit]]]
+* [[[equip:light-suit-armor | Light Armor]]]
+* [[[equip:Mass Manipulation Amp Unit]]]
+* coupon for 1 [[[equip:armored bodypart]]]
+====
+Corporal (3)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+4
+====
+Cornflakes_91

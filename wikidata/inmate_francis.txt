@@ -1,0 +1,93 @@
+Francis
+====
+4
+====
+27
+====
+Male
+====
+A musical prodigy growing up, Francis loves nothing more than to toot his own horn. At the age of 17, he joined the Staccato City Ensemble full time until a certain incident one day. Despite not being French, people often assume him as such.
+====
+A pacifist, and a complete wimp. Given the option, he'd rather cower in the corner than get involved in any of that combat thing. As a result, he has become very good at running away. Loves puns.
+He has developed the resolve to help others when he can.
+Can be encouraged to kill, if it's fun and not particularly violent.
+====
+After a particularly ill-received performance, the ensemble went on a rampage, attacking the audience with extreme violins, sharpening their instruments to flatten their foes as though that combination was just natural. Francis was pulled into the fray against his will and... well, you can imagine the rest.
+====
+-2
+====
+2	
+====
+2
+====
+-2
+====
+-2
+====
+-2
+====
+-2
+====
+2
+====
+1
+====
+0
+====
+0
+====
+0
+====
+2
+====
+1
+====
+1
+====
+0
+====
+* [[[equip:Mk 1b Luxury CASKET]]]
+* [[[equip:Afterburner System]]]
+* [[[equip:Cargo Pod]]] x 2
+* [[[equip:Enhanced Spectrum Cam]]]
+* [[[equip:Kinetic Bumper]]]
+
+====
+Additional Knowledge
+====
+* [[[Mission 1]]] -- Squad 4
+ * Didn't die
+
+* [[[Mission 2]]] -- Squad 4
+ * 1 HAMMER kill
+ * 2 HAMMER assists
+ * Helped save Rikke
+ * Helped save Fawkes
+ * has a MIMIR head
+ * has a MIMIR jetpack
+ * has Foreigner's ship
+====
+That's better, I needed that nap.
+====
+10
+====
+0
+====
+Survival-Recon
+====
+* [[[equip:Horn]]]
+* [[[equip:Crossbow]]]
+ * sticky+flare
+ * syringe+tranquiliser
+ * sticky+cable
+ * suction+tracker
+* [[[equip:Crowbar]]]
+
+====
+Cadet (-2)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+4
+====
+DigitalDuck

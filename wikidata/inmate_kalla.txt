@@ -1,0 +1,78 @@
+Kalla
+====
+0
+====
+29
+====
+Female
+====
+Kalla is described as a "skinny, bedraggled woman". She is noted to have thin, corkscrew chestnut hair that she keeps tied behind her in a loose bun. It is mentioned that she lost her husband and children before joining REKT, although the circumstances are not specified.
+====
+Personality
+====
+Reason the character got REKT
+====
+2
+====
+-1
+====
+1 
+====
+-1
+====
+-1
+====
+2
+====
+-2
+====
+1
+====
+0
+====
+2
+====
+-1
+====
+2
+====
+-2
+====
+1
+====
+-2
+====
+2
+====
+* [[[equip:Rocket Shotgun]]]
+ * 5 Extra rounds
+* [[[equip:FROG]]] with 1 extra case of FROGs
+* [[[equip:Null Field Psyamp]]]
+* [[[equip:Mk 2 CASKET]]]
+* [[[equip:Sidecar attachment]]] x2
+====
+Additional Knowledge
+====
+Mission History
+====
+This is a quote for your character.
+====
+10
+====
+5
+====
+Non-support
+====
+* [[[equip:OMEGA Gun]]]
+* [[[equip:Semiautomatic Pistol]]]
+* [[[equip:PSI Pack]]]
+ * [[[equip:Stasis Amp Unit]]]
+ * [[[equip:Nullfield Amp Unit]]]
+ * [[[equip:Microwave Amp Unit]]]
+* [[[equip:Airdome]]]
+* [[[equip:Painkillers]]] (6)
+* [[[equip:Light Suit Armor]]]
+====
+Lieutenant (6)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg

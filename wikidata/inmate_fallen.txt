@@ -1,0 +1,67 @@
+Fallen
+====
+0
+====
+24
+====
+Male
+====
+Fallen is bald; the top of his head is scarred and disfigured from an accident he had when he was younger.
+====
+He tends to walk around either scowling or making cruel jokes. Doesn't like talking to people much. Openly acts like he hates everyone, but at the same time cares about those around him to the point he will go well out of his way to rescue someone in danger. If this is pointed out to him, he begins loathe the person who did it, treating them almost like an enemy (though he rarely manages to accomplish anything amounting to revenge). Reckless and wild, he's not much for caution and often puts himself in harm's way, but he is good at getting back out again.
+====
+Reason the character got REKT
+====
+3
+====
+-2
+====
+0
+====
+0
+====
+-2
+====
+-2
+====
+0
+====
+2
+====
+0
+====
+2
+====
+-1
+====
+3
+====
+-2
+====
+0
+====
+0
+====
+-2
+====
+* [[[equip:Railgun]]]
+* [[[equip:KAMEHA Blaster]]], 9 extra batteries
+====
+Additional Knowledge
+====
+Mission History
+====
+This is a quote for your character.
+====
+10
+====
+10
+====
+Combat
+====
+* [[[equip:Heavy Suit Armor]]]
+* [[[equip:Minigun]]]
+* [[[equip:Gauss Rifle]]]
+* [[[equip:Assault Rifle]]]
+====
+Corporal (3.5)

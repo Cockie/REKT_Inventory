@@ -1,0 +1,84 @@
+Kai'isha
+====
+0
+====
+28
+====
+Female
+====
+Grew up on Shai'lin. Was at some point framed by someone and sent to REKT.
+====
+Unknown.
+====
+Framed.
+====
+-2
+====
+1	
+====
+2
+====
+-1
+====
+1
+====
+2
+====
+-2
+====
+0
+====
+0
+====
+1
+====
+2
+====
+-2
+====
+-2
+====
+1
+====
+1
+====
+0
+====
+* [[[equip:Advanced Repair Kit]]]
+* [[[equip:Pressure Globe]]]
+* [[[equip:Cargo Pod]]]
+* [[[equip:Mass Manipulation Psychokinetic Amplifier]]]
+====
+Additional Knowledge
+====
+* [[[Mission 1]]] -- Squad 3
+ * Patched up Foreigner's and Francis' suits
+ * Patched up Foreigner's arm
+ * Gave Francis painkillers
+* [[[Mission 2]]] -- Squad 4
+ * Helped save Rikke
+ * Canopy damaged
+ * Shot in the arm
+====
+I have //no clue// what's going on here or what I'm doing, and I //still// went downstairs to try to help! //You fled!//
+====
+0
+====
+0
+====
+Support-Survival
+====
+* [[[equip:Light Suit Armor]]]
+* [[[equip:PSI Pack]]]
+ * [[[equip:Nullfield Amp Unit]]]
+ * [[[equip:Stasis Amp Unit]]]
+ * [[[equip:Telepathic Amp Unit]]]
+* [[[equip:Painkillers]]] (3 remaining)
+* [[[equip:Coagulant Boosters]]] (6 remaining)
+* [[[equip:Advanced Medical Kit]]]
+====
+Airman (1)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+4

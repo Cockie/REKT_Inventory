@@ -1,0 +1,87 @@
+Tæpilus 
+====
+0
+====
+36
+====
+Male
+====
+Tæpilus was raised in a relatively well-off family and had a decent childhood. He was among the top-performing students throughout his education, and, after finishing a prestigious university, managed to land a job at a government weapon-research institution. Although he had a satisfying career there, he always dreamed of more. More influence, more power, more money - all of this couldn't be achieved by conventional means, he thought. So in his 24th year, he made a deal with the devil - he approached a local underground manufacturer of weapons, and agreed to start selling the design blueprints of the secret government projects he has been working on during his regular job. Although this was profitable and safe, it wasn't enough. Soon, he began working for the manufacturer - not only selling the secret government blueprints, but actually designing new models to counter the government-made ones. As time passed, he became the lead engineer in the organization. From this position, he attempted to overthrow the organization's command and seize it for itself. Although he succeeded, the operation drew too much attention from the local authorities and resulted in the organization's disbandment and his imprisonment.
+====
+Cold and cynical. Sees others as assets and will not hesitate to crush those that stand in his way or present a threat.
+====
+Illegal arms manufacturing
+====
+1
+====
+1
+====
+0     
+====
+-2
+====
++2
+====
+-2
+====
+-2
+====
+0
+====
+0
+====
+0
+====
+1
+====
+-1
+====
+2
+====
+-2
+====
+0
+====
+-2
+====
+* [[[equip:Microwave Field Manipulator]]]
+* [[[equip:Magnetic Field Manipulator]]]
+* [[[equip:Computer Shielding]]]
+
+====
+Additional Knowledge
+====
+* [[[Mission 2]]] -- Squad 1
+ * Destroyed one shieldmaiden turret
+ * left robotic arm destroyed
+ * Destroyed 1 hangar AP turret
+ * 1 HAMMER assist
+ * 1 HAMMER kill
+ * 1 infantry kill
+ * missing arm and some other plasma-made holes
+ * died
+====
+This is a quote for your character.
+====
+5
+====
+5
+====
+Support/Combat
+====
+* [[[equip:Blowtorch]]]
+* [[[equip:Electron sword]]]
+* [[[equip:Crossbow]]]
+ * Sharp+solid
+ * Incendiary+oil
+ * Sticky+cable reel
+ * Magnetic+explosive
+
+====
+Airman (0.5)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+2
+====
+Hapchazzard

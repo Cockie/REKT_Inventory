@@ -1,0 +1,68 @@
+Trig
+====
+0
+====
+30
+====
+Male
+====
+Described as tall, strong, and rather square, with a wide chin, small eyes and short brown hair.
+====
+Typically quiet, slow, and gentle. Will do absolutely anything to protect an ally, but doesn't consider people friends easily. Somewhat distrustful, but doesn't mind talking. Has a short temper if he senses someone is trying to pick a fight with him. In combat situations, rather sly.
+====
+Reason the character got REKT
+====
+2
+====
+2
+====
+-2
+====
+-1
+====
+-1
+====
+-2
+====
+2
+====
+2
+====
+-2
+====
+1
+====
+-1
+====
+2
+====
+2
+====
+-1
+====
+-1
+====
+1
+====
+* [[[equip:Rocket SML]]]
+* [[[equip:PION Beam Cannon]]]
+====
+Additional Knowledge
+====
+Mission History
+====
+Run, goddammit! ... I've hardly hit a thing this mission! Let me deal with him!
+====
+0
+====
+10
+====
+Combat/Recon
+====
+* [[[equip:Gauss Rifle]]]
+* [[[equip:Plasma Rifle]]]
+* [[[equip:Plasma Baton]]]
+* [[[equip:Gauss Shotgun]]]
+* [[[equip:Armored Bodypart]]] (everything except head, 1 left for the future)
+====
+Airman 1st Class (3)

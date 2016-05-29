@@ -1,0 +1,72 @@
+Clara Lesaille
+====
+0
+====
+24
+====
+Female
+====
+Clara is described as having "glasses concealing dark brown eyes, beneath even darker hair", with bangs that hang over her left eye. She was a student at at university on Ilpkenore II, studying for a physics degree. She took part in a group research project to study warp fields with a number of her colleagues, but it proved to be more dangerous than they had anticipated. The project went awry; one of her colleagues, a male named Orireth Asiphoth, ironically saved her life after a containment breach and subsequent explosion. The death of the man prompted his father, the local regional governor, to pay to have Clara and the other surviving students shipped aboard the Tartarus. Clara's colleagues joined her in Platoon 56 but later died both during the Taghdara misison and earlier Elensis mission. Clara is noted to be something of a bookworm, and enjoys playing arcade games to pass the time when she's troubled.
+====
+She seems timid, shy, and fearful. Apparently didn't do very well on her first two missions and now has the rank of Cadet. Fears for her life following [[[mission:Mission 2]]] if she doesn't get a high enough rating from Tartarus Inc.
+====
+Took part in a volatile group research project that claimed the life of the son of a local politician, who paid to have her and her colleagues exported to Tartarus.
+====
+0
+====
+-2
+====
+1
+====
+2
+====
+1 
+====
+2
+====
+0
+====
+-2
+====
+1
+====
+0
+====
+0
+====
+-2
+====
+-2
+====
+2
+====
+3
+====
+-2
+====
+* [[[equip:Critical Shielding]]]
+* [[[equip:Computer Shielding]]]
+* [[[equip:Null Field Psyamp]]]
+* [[[equip:Warp Field Psyamp]]]
+====
+Additional Knowledge
+====
+Has done two missions prior to Mission 2, and skipped [[[Mission 1]]]. One of them was [[[Taghdara]]], as quoted by SCAMPS in the briefing for Mission 2.
+====
+This is a quote for your character.
+====
+0
+====
+0
+====
+Support
+====
+* [[[equip:Light Suit Armor]]]
+* [[[equip:PSI Pack]]]
+ * [[[equip:Telepathic Amp Unit]]]
+ * [[[equip:Mass Manipulation Amp Unit]]]
+ * [[[equip:Stasis Amp Unit]]] 
+* [[[equip:Nanobot Pack]]]
+
+====
+Cadet (-1.5)

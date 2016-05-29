@@ -1,0 +1,88 @@
+John "Fawkes" Fletcher
+====
+0
+====
+30
+====
+Male
+====
+Born as the son of a close friend to the CEO of a manufacturer of high-tech weaponry and mobile, ground-based weapon-platforms, John had early contact with machines and showed that he was able to repair and pilot machines and robots to a great extend at the age of 12. With 16 he started working at his father´s friend´s manufacture as an mechanic. After 5 years, he got a job as a test pilot for new systems, where he then lost his left leg. After that he joined a mercenary squad, arranging mainly defense- and control-contracts from his former employer. During this time he lost his remaining leg and the left arm. Has yet to fly a spacecraft by himself. His mechanical limbs are not constructed to enhance his physical abilities, but to provide a better handling of the machines, he was working with. The feet consist of 3 15cm long dull claws, fixed to a central, rotatable hub. The fingers of the artificial hand can each split into 2 thinner fingers to increase the number of controls he could use. Other than that, the hand is extremely useful to peel fruit with only one hand. All limbs are 100% connected to his nervous system and offer several sensors and ports to connect to machines which then provide haptic sensation and an equivalent to pain (kind of a dull pressure).
+====
+Usually calm and polite. As someone who appreciates loyalty, he has a strong aversion to traitors.
+Due to nearly dying twice during the mission, he intends to pay more attention to his surroundings. He also hopes that no more situations arise where teammates have to sacrifice themselves.
+====
+Was caught after the rest of his team abandoned the contract to defend a new prototype and stole it for another contractor (without his knowledge). 
+====
+1
+====
+1
+====
+1     
+====
+-1
+====
+1
+====
+-1
+====
+0
+====
+-1
+====
+1
+====
+0
+====
+2
+====
+1
+====
+-2
+====
+-2
+====
+-1
+====
+-1
+====
+* [[[equip:Railgun]]]
+* [[[equip:Particle Gun]]]
+* [[[equip:Advanced Repair Kit]]]
+* [[[equip:Mobile Workstation]]]
+====
+Additional Knowledge
+====
+* [[[Mission 2]]] -- Squad 3
+ * 1 gunship turret kill
+ * 1 HAMMER assist
+ * 1 HAMMER kill
+ * Destroyed shieldmaiden turret
+ * Destroyed shieldmaiden AP turret
+ * has 2 plasma streamers and a blaster
+ * life support damaged, might engine damage, RCS failure
+ * shot in the chest
+ * chest suit hole patched
+ * has a strange MIMIR pack thingy
+====
+There is no hope. Not for me at least... and neither for them!
+====
+0
+====
+0
+====
+non-recon
+====
+* [[[equip:Light Suit Armor]]]
+* [[[equip:Gauss Rifle]]]
+* [[[equip:Lasgun]]]
+* [[[equip:Grapple Set]]]
+* [[[equip:Advanced Medical Kit]]]
+
+====
+Airman (1)
+====
+http://www.politicspa.com/wp-content/uploads/2013/02/Silhouette-question-mark.jpeg
+====
+2
+====
+F4wk35
