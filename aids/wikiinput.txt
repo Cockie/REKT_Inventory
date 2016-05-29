@@ -124,10 +124,10 @@ __Wiki__
    * --Amount of scans that can be done per turn is dependent on the robotics skill.--
    * --Advanced PDA that lets you do more than one scan if you buy it.--
   * --Multi-roll for to-buy infantry tools (like medkits): if you buy x of them, can you use them x times per turn? (1 use for each item you've bought per turn)-- no
-  * Clarify armour rules in
+  * --Clarify armour rules in--
    * --[[[equip:Light suit armor]]]--
    * --[[[equip:Heavy Suit armor]]]--
-   * [[[equip:Armored Bodypart]]] (I copied it over from light armour, but a) check that b) the description says "can take a bullet swarm", prolly not accurate :p)
+   * --[[[equip:Armored Bodypart]]] (I copied it over from light armour, but a) check that b) the description says "can take a bullet swarm", prolly not accurate :p)--
   * --Clarify armour penetration of infantry weapons (e.g. the [[[equip:assault rifle]]] says it's not good against armour yet penetrated light armour with ease in VR): I made a guesstimate on basis of your armor description in [[[inf weapon damages]]], maybe you can start from there (or correct that and let me copy it to the individual pages)--
  * Level up NPC's and load them out (we can do that to with your permission)
   * --[[[inmate:Clara Lesaille]]]--
@@ -139,10 +139,14 @@ __Wiki__
   * [[[inmate:Taniya Aljahnar]]] (Hema was gonna do this)
   * --[[[inmate:Trig]]] (stats already levelled), [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127396#p127396 suggestion]-- Yes, and sorry about the -2 man (*sighs* Done :V)
   * [[[inmate:Lugg D]]] (loadout)
-  * [[[inmate:Cindrina Milson]]] (loadout - why does she only have 4 creds?)
+  * [[[inmate:Cindrina Milson]]] (loadout - why does she only have 4 creds?) (answered this)
   * --Iquilah and Lug have a different name in their url's and page, which is correct?-- (renamed, went by the ones you used in thread ~Dino)
- * LATER (when mission is started and stuff)
-  * Add other armoury things:
+ * LATER (when mission is started and stuff) (WHAT? THIS HELLISH NIGHTMARE EVENTUALLY ENDS?!)
+  * Play Stellaris (OMG IT DOES! OH YES! YES! PLEASE!)
+  * Relax (SO MUCH YES, OMG I LOVE YOU)
+  * Write a page on the layer system so Dino can write the Program of Legends™
+  * Specify recharge time (in turns or layers) for energy based weapons (for the same reason)
+  * Add other armoury things: (NEVERMIND, SCREW YOU, YOU'RE EVIL) (>:D ~Dino)
    * Atomic Hammer
    * Tank Drone
    * Combot

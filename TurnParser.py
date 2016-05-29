@@ -3,41 +3,13 @@ try:
 except ImportError:
     from bs4 import BeautifulSoup
 from urllib import request
+from Classes import *
 
 nicks = {}
 with open('charnames.txt') as f:
     for line in f:
         line = line.split('&')
         nicks[line[0]] = line[1].strip('\n')
-
-
-class Character():
-    name = ""
-    nick = ""
-    commands = []
-    actions = []
-
-    def __init__(self, name, nick):
-        self.name = name
-        self.nick = nick
-        self.commands = []
-        self.actions = []
-
-    def addAction(self, action):
-        self.actions.append(action)
-
-    def addCommand(self, command):
-        self.commands.append(command)
-
-    def printActions(self):
-        print("ACTIONS")
-        for thing in self.actions:
-            print(thing)
-
-    def printCommands(self):
-        print("COMMANDS:")
-        for thing in self.commands:
-            print(thing)
 
 
 def stripComment(mess):
@@ -57,11 +29,93 @@ def removeTags(mess):
 def splitInLines(mess):
     return mess.replace('<br/>', '\n')
 
+def stringToArray(mess):
+    return mess.split()
 
-# url = "http://forums.ltheory.com/viewtopic.php?p=127522#p127522"
-url = "http://forums.ltheory.com/viewtopic.php?f=29&t=5151#p127522"
+def arrayToString(mess):
+    res=""
+    for stuff in mess:
+        res+=stuff+" "
+    return res.strip().replace('  ',' ')
+
+badwords = ['-','and','then']
+notendwords = ['the', 'from', 'my', 'to', 'and','of','towards','ing','ed','for','is','at','not','with','over','in']
+noneedwords = ['my', 'the','a']
+inctriggerwords = ['shoot','fire','hack','slice','put','remove','take','crawl']
+exctriggerwords = ['i ',"i'll"]
+def parseAction(mess):
+    thing = ""
+    res = ""
+    mess = mess.lower().strip()
+    #cut out unneeded words like my and the
+    messs = stringToArray(mess)
+    for i, part in enumerate(messs):
+        if any([part == word for word in noneedwords]):
+            messs[i]=""
+
+    mess = arrayToString(messs)
+
+    # count "if" dashes
+    if mess.startswith('-'):
+        ok = True
+        i = 0
+        ifstr = mess.replace(' ', '')
+        while ok:
+            if ifstr == '-':
+                res += '-'
+            else:
+                ok = False
+            i+=1
+
+    messs = stringToArray(mess)
+    for i, part in enumerate(messs):
+        if any([part == word for word in badwords]):
+            messs[i]=""
+        else:
+            break
+    if "if" in mess:
+        res = mess
+    else:
+        if "i'll" in mess:
+            thing = "i'll"
+        elif 'i ' in mess:
+            thing = "i "
+        if thing != "":
+            mess = mess[mess.find(thing) + len(thing):]
+            mess = mess.split()
+            for i in range(0, min(5, len(mess))):
+                res += mess[i] + " "
+        else:
+            if "fire" in mess:
+                thing = "fire"
+            elif 'shoot' in mess:
+                thing = "shoot"
+            if thing != "":
+                mess = mess[mess.find(thing):]
+                mess = mess.split()
+                for i in range(0, min(5, len(mess))):
+                    res += mess[i] + " "
+            else:
+                mess = mess.split()
+                for i in range(0, min(5, len(mess))):
+                    res += mess[i] + " "
+        res=res.strip()
+        i=5
+        stop = False
+        while not stop and any([res.endswith(word) for word in notendwords]):
+            try:
+                res += " "+mess[i]
+            except Exception:
+                stop = True
+                break
+            i+=1
+    return res
+
+
+# url = "http://forums.ltheory.com/viewtopic.php?f=29&t=4512&start=705#p127057"
+url = "http://forums.ltheory.com/viewtopic.php?f=29&t=4512&start=810#p127538"
 if 'start' not in url:
-    url = url.replace('#', '&start=1#')
+    url = url.replace('#', '&start=0#')
 
 head = {'User-Agent': 'Chrome/35.0.1916.47'}
 '''if forumusername != "" and forumpw != "":
@@ -85,6 +139,7 @@ head = {'User-Agent': 'Chrome/35.0.1916.47'}
 htmlstr = ""
 prevhtmlstr = ""
 keepgoing = True
+chars = {}
 while keepgoing:
     print(url)
     req = request.Request(url, data=None, headers=head)
@@ -135,13 +190,12 @@ while keepgoing:
     auths = auths[startat:]
     posts = posts[startat:]
 
-    chars = {}
     commanding = False
     # pars posts
     for j, stuff in enumerate(posts):
         # check if char is in
         if auths[j] not in chars.keys():
-            chars[auths[j]] = Character(nicks[auths[j]], auths[j])
+            chars[auths[j]] = actor(nicks[auths[j]], auths[j])
 
         for underlined in stuff.find_all('span', attrs={'style': "text-decoration: underline"}):
             underlined = removeTags(stripComment(str(underlined)))
@@ -155,7 +209,7 @@ while keepgoing:
                     if commanding:
                         chars[auths[j]].addCommand(line)
                     else:
-                        chars[auths[j]].addAction(line)
+                        chars[auths[j]].addAction(parseAction(line))
                     if line.endswith('"'):
                         commanding = False
 

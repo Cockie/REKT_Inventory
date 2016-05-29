@@ -4,23 +4,35 @@ statsDict = {"Energy": 0, "Durability": 1, "Maneuverability": 2, "Hacking System
              "Robotics": 6, "Engines": 7}
 class actor(object):
     name = ""
+    nick = ""
     skills = {}
     stats = {}
     modificators = []
     inventory = []
     extra = ""
+    commands = []
+    actions = []
 
-    def __init__(self, name, extra=""):
+    def __init__(self, name, nick="", extra=""):
         self.name = name
         self.modificators = []
         self.inventory = []
         self.skills = {}
         self.stats = {}
         self.extra = extra
+        self.nick = nick
+        self.commands = []
+        self.actions = []
         for i in statsDict:
             self.stats[i] = 0
         for i in skillsDict:
             self.skills[i] = 0
+
+    def setStat(self, i, stat):
+        self.stats[i] = stat
+
+    def setSkill(self, i, stat):
+        self.skills[i] = stat
 
     def hasitem(self, item):
         if self.inventory.count(item) >= 1:
@@ -89,6 +101,22 @@ class actor(object):
 
     def changeextra(self, newextra):
         self.extra = newextra
+
+    def addAction(self, action):
+        self.actions.append(action)
+
+    def addCommand(self, command):
+        self.commands.append(command)
+
+    def printActions(self):
+        print("ACTIONS")
+        for thing in self.actions:
+            print(thing)
+
+    def printCommands(self):
+        print("COMMANDS:")
+        for thing in self.commands:
+            print(thing)
 
 
 class item(object):
