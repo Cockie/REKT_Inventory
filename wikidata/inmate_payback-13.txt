@@ -61,7 +61,10 @@ Combat/Survival
 ====
 * [[[equip:Gauss Rifle]]]
 * [[[equip:Electron Sword]]]
-* [[[equip:Grenade Pack]]] (Explosive)
+* [[[equip:Grenade Pack]]]
+ * Explosive
+ * Explosive
+ * Explosive
 * [[[equip:Energy Shield]]]
 ====
 Airman (0)

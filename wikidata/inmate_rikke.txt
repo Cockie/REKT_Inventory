@@ -61,6 +61,9 @@ Combat/Support
 * [[[equip:Tesla Gun]]]
 * [[[equip:Crowbar]]]
 * [[[equip:Grenade Pack]]]
+ * ?
+ * ?
+ * ?
 ====
 Cadet (-1)
 ====

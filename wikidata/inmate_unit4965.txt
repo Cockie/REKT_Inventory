@@ -70,6 +70,10 @@ Survival
 ====
 * [[[equip:Blowtorch]]]
 * [[[equip:Crossbow]]]
+ * ?
+ * ?
+ * ?
+ * ?
 * [[[equip:Thruster Pack]]]
 
 ====

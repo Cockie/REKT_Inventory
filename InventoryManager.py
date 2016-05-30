@@ -513,7 +513,7 @@ class KillPopup():
 # main frame
 root = Tk()
 root.minsize(1000, 400)
-root.wm_title("REKT Inventory Manager 1.3")
+root.wm_title("REKT Inventory Manager 1.4")
 img = PhotoImage(file='logo.gif')
 root.tk.call('wm', 'iconphoto', root._w, img)
 
