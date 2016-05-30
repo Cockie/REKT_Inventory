@@ -1,6 +1,6 @@
 Andrew Rice
 ====
-9
+4
 ====
 25
 ====
@@ -74,6 +74,10 @@ Combat-Survival
 * [[[equip:Laser Pistol]]]
 * [[[equip:Lasgun]]]
 * [[[equip:Painkillers]]]
+* [[[equip:VISION Helm]]]
+* [[[equip:Light Suit Armor]]]
+* [[[equip:Energy Shield]]]
+* [[[equip:Armored Bodypart]]] (left leg)
 ====
 Airman 1st Class (2)
 ====

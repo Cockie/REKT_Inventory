@@ -98,7 +98,7 @@ Survival-Combat
  * Sticky+flare
  * Sticky+cable reel
  * Barbed+solid
-* [[[equip:Sword]]] (one-handed [https://en.wikipedia.org/wiki/Wakizashi Wakizashi])
+* [[[equip:Longsword]]] (shortened 2-handed katana, about 70 cm blade length)
 * [[[equip:Energy Shield]]]
 * [[[equip:Light Suit Armor]]]
 * [[[equip:Scottish Wool Scarf]]]

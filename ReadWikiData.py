@@ -26,6 +26,32 @@ for file in files:
             infantry[i] = thing[thing.find('|')+1:].replace(']]]','')
         else:
             infantry[i] = thing.replace(']]]', '').replace('[[[equip:', '')
-    print(infantry)
+
+    shipstuff = text[23]
+    shipstuff = shipstuff.split('*')
+    try:
+        shipstuff.remove('')
+    except Exception:
+        print(shipstuff)
+    if len(shipstuff)==0:
+        shipname = "Casket Mk 1"
+    elif "casket" in shipstuff[0].lower() or "grease" in shipstuff[0].lower() or "stich" in shipstuff[0].lower():
+        shipname = shipstuff[0].replace(']]]', '').replace('[[[equip:', '')
+    else:
+        shipname = "Casket Mk 1"
+    for i, thing in enumerate(shipstuff):
+        if "|" in thing:
+            shipstuff[i] = thing[thing.find('|')+1:].replace(']]]','')
+        else:
+            shipstuff[i] = thing.replace(']]]', '').replace('[[[equip:', '')
+
     addPlayer(name,'1',players,nick=nick)
+
+    addShip(name+"'s "+shipname, '1', ships)
+
+    for stuff in infantry:
+        addItem(stuff, name, 1, '', players,piles,ships)
+
+    for stuff in shipstuff:
+        addItem(stuff, name+"'s "+shipname, 3, '', players, piles, ships)
 save('import',players,piles,ships)

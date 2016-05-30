@@ -1,6 +1,6 @@
 Ysavva
 ====
-10
+0
 ====
 34
 ====
@@ -74,8 +74,7 @@ Thinks she's the biggest badass on Tartarus.
 ====
 -1
 ====
-* [[[equip:Railgun]]]
-
+* [[[equip:Explosive Gauss Cannon]]] + 1 extra magazine sets
 ====
 Additional Knowledge
 ====
@@ -104,12 +103,12 @@ This is a fukcing mess. Let's kill something.
 ====
 Combat
 ====
-* [[[equip:Grenade Pack]]]
-* [[[equip:Electron Sword]]]
-* [[[equip:Gauss Rifle]]]
-* [[[equip:Assault Rifle]]]
+* [[[equip:Liquid Crystal Depositor]]]
+* [[[equip:Lasgun]]]
+* [[[equip:Kinetic Gauntlet]]]
 * [[[equip:Heavy Suit Armor]]]
-
+* [[[equip:TARGET Helm]]]
+* [[[equip:Energy Shield]]]
 ====
 Airman 1st Class (2)
 ====

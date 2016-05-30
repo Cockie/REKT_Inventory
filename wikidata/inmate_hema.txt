@@ -1,6 +1,6 @@
 Hema
 ====
-10
+2
 ====
 25
 ====
@@ -36,7 +36,7 @@ He killed everyone in the labs on Omicron 8 (some of them innocent), in a horrib
 ====
 -1
 ====
-1
+2
 ====
 -2
 ====
@@ -45,6 +45,11 @@ He killed everyone in the labs on Omicron 8 (some of them innocent), in a horrib
 0
 ====
 * [[[equip:Microwave Field Manipulator]]]
+* [[[equip:Blunderbuss]]]
+ * Molten Shell
+ * Flechette Bomb
+ * Camera
+* [[[equip:Enhanced Spectrum Cam]]]
 
 ====
 Additional Knowledge
@@ -66,17 +71,18 @@ You have made a wrong move, Death.
 ====
 0
 ====
-10
+0
 ====
 Survival
 ====
 * [[[equip:Nanite Sealed Suit]]]
-* [[[equip:Electron Sword]]]
-* [[[equip:Crossbow]]]
+* [[[equip:VISION Helm]]]
+* [[[equip:Electron Sword]]] on Quickdraw Holster
+* [[[equip:Crossbow]]] on Quickdraw Holster
  * Barbed+cable reel
- * Syringe+teargas
- * Syringe+explosive
- * Syringe+acid
+ * Sharp+acid
+ * Sticky+explosive
+ * Incendiary+oil
 * [[[equip:Grenade Pack]]]
  * Napalm
  * Explosive

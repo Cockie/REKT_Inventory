@@ -1,4 +1,4 @@
-+ **__72% COMPLETE (88% OF PRE-MISSION STUFF)__**
++ **__72% COMPLETE (89% OF PRE-MISSION STUFF)__**
 --__Forum__--
 * --the main thread is a bit outdated compared to the rule page here--
  * --specifically, copypaste death and mission:--
@@ -107,10 +107,10 @@ __Wiki__
   * --Retractable flail--
   * --Ship AI--
   * --Nanobot Globule--
-  * RMBLR
+  * --RMBLR--
   * Gravity Amp Unit
   * Inorganic Object Teleporter
-  * Cymek rebooting kit (wake up fainted cymeks because they can't use antishock meds and stuff)
+  * --Cymek rebooting kit (wake up fainted cymeks because they can't use antishock meds and stuff)--
   * some more infantry PSI stuff (see also [http://forums.ltheory.com/viewtopic.php?f=29&t=4692&start=210#p126349 armoury thread thing]) (still or did I suggest enough? ~Dino)
  * --Check later additions [http://forums.ltheory.com/viewtopic.php?f=29&t=4692&start=240#p126791 in the thread]--
  * whatever else is brewing in Tal's brilliant mind (Lol ~Tal)
@@ -139,7 +139,7 @@ __Wiki__
   * [[[inmate:Taniya Aljahnar]]] (Hema was gonna do this)
   * --[[[inmate:Trig]]] (stats already levelled), [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127396#p127396 suggestion]-- Yes, and sorry about the -2 man (*sighs* Done :V)
   * [[[inmate:Lugg D]]] (loadout)
-  * [[[inmate:Cindrina Milson]]] (loadout - why does she only have 4 creds?) (answered this)
+  * [[[inmate:Cindrina Milson]]] (loadout), [http://forums.ltheory.com/viewtopic.php?f=29&t=5145&p=127685#p127685 suggesstion]
   * --Iquilah and Lug have a different name in their url's and page, which is correct?-- (renamed, went by the ones you used in thread ~Dino)
  * LATER (when mission is started and stuff) (WHAT? THIS HELLISH NIGHTMARE EVENTUALLY ENDS?!)
   * Play Stellaris (OMG IT DOES! OH YES! YES! PLEASE!)

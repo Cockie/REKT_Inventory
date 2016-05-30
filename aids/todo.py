@@ -1,7 +1,7 @@
 deleted = 0
 done = 0
-num_lines = sum(1 for line in open('wikiinput.txt'))
-with open('wikiinput.txt', 'r') as fileContents:
+num_lines = sum(1 for line in open('aids/wikiinput.txt'))
+with open('aids/wikiinput.txt', 'r') as fileContents:
     for line in fileContents:
         if "LATER" in line:
             break

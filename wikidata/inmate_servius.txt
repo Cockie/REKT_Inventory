@@ -50,7 +50,7 @@ Additional Knowledge
 ====
 Mission History
 ====
-This is a quote for your character.
+Senatus Populusque Romanus.
 ====
 0
 ====
@@ -58,7 +58,7 @@ This is a quote for your character.
 ====
 Survival
 ====
-* [[[equip:Sword]]]
+* [[[equip:Gravitic Shotgun]]]
 * [[[equip:Electron Sword]]]
 * [[[equip:Riot Shield]]]
 * [[[equip:Light Suit Armor]]]

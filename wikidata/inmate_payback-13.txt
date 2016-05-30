@@ -44,7 +44,7 @@ After attempting to access the information on his thirteenth memory wipe Payback
 ====
 1
 ====
-* [[[equip:railgun]]]
+* [[[equip:electrolaser]]]
 * [[[equip:scout drones]]]
 ====
 Additional Knowledge
@@ -61,8 +61,8 @@ Combat/Survival
 ====
 * [[[equip:Gauss Rifle]]]
 * [[[equip:Electron Sword]]]
-* [[[equip:grenade pack]]] (Explosive)
-* [[[equip:reactive armor]]]
+* [[[equip:Grenade Pack]]] (Explosive)
+* [[[equip:Energy Shield]]]
 ====
 Airman (0)
 ====

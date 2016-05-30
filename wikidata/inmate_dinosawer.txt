@@ -1,6 +1,6 @@
 Dinosawer
 ====
-7
+0
 ====
 22
 ====
@@ -91,14 +91,17 @@ Arrested on accusation for terrorism for a stunt involving a national monument a
 2
 ====
 * [[[equip:Electrolaser]]]
-* [[[equip:Blunderbuss]]] + 2 extra ammo rounds 
+* [[[equip:Blunderbuss]]] + 4 extra ammo rounds 
  * Remote Explosive
- * Chaff
+ * Remote Explosive
+ * Flechette Bomb
+ * Flechette Bomb
  * Molten Shell
  * Molten Shell
- * Molten Shell
-* [[[equip:Quantum Cannon]]] on extra Weapon Mount
+ * Flare
+* [[[equip:Quantum Cannon]]] on extra Mount
 * [[[equip:Cargo Pod]]]
+* [[[equip:Rugged Tread Upgrade]]]
 
 ====
 * Knows Morse Code
@@ -148,10 +151,11 @@ BONSAAAIIII!!!
 Combat
 ====
 * [[[equip:Armored Bodypart]]] (full cymek body)
+* [[[equip:TARGET Helm]]]
 * [[[equip:Rocket Boots]]]
 * [[[equip:Plasma Streamer]]]
-* [[[equip:Gauss Shotgun]]]
-* [[[equip:Electron Sword]]]
+* [[[equip:Gauss Shotgun]]] on Quickdraw Holster
+* [[[equip:Electron Sword]]] on Quickdraw Holster
 ====
 Corporal (3)
 ====
@@ -160,3 +164,5 @@ http://i.imgur.com/V3kxe5G.png
 4
 ====
 Dinosawer
+====
+http://i.imgur.com/qMIuZ0l.png

@@ -58,12 +58,12 @@ Production and sale of explosives and illegal drugs
 * [[[equip:GREASE Support Vessel]]]
 * [[[equip:Microwave-Field-Manipulator | Microwave Field Manipulator]]]
 * [[[equip:Gravity Field Manipulator]]]
-* [[[equip:Large Scythe Attachment]]]
+* [[[equip:Large Scythe Attachment]]] (Right front)
 * [[[equip:Cargo Pod]]]
 * [[[equip:Scout Drones]]]
 * [[[equip:Repair Kit]]]
-* [[[equip:MUSE Attachment]]]
-* [[[equip:Spike Attachment]]]
+* [[[equip:MUSE Attachment]]] (Right back)
+* [[[equip:Spike Attachment]]] (Left front)
 
 ====
 * Knows where to find potentiometers in the hacking systems.
@@ -121,7 +121,7 @@ Idiots. Idiots everywhere.
 Jack of all trades
 ====
 * [[[equip:Crossbow]]]
- * Syringe+Tranquiliser
+ * Incendiary+explosive
  * Sharp+solid
  * Barbed+cable reel
  * Sharp+acid

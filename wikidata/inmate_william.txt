@@ -1,6 +1,6 @@
 William "Quackshot"
 ====
-5
+0
 ====
 35
 ====
@@ -46,7 +46,7 @@ Disobeying an order to abandon a convoy and defend military assets, despite the 
 ====
 0
 ====
-Equipment
+* [[[equip:Particle Gun]]]
 ====
 Additional Knowledge
 ====
@@ -60,7 +60,11 @@ This is a quote for your character.
 ====
 Combat-Survival
 ====
-Infantry Gear
+* [[[equip:Light Suit Armor]]]
+* [[[equip:VISION Helm]]]
+* [[[equip:Riot Shield]]]
+* [[[equip:Lasgun]]]
+* [[[equip:Semiautomatic Pistol]]]
 ====
 Airman (0)
 ====

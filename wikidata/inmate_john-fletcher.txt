@@ -73,7 +73,7 @@ There is no hope. Not for me at least... and neither for them!
 non-recon
 ====
 * [[[equip:Light Suit Armor]]]
-* [[[equip:Gauss Rifle]]]
+* [[[equip:Gauss Shotgun]]]
 * [[[equip:Lasgun]]]
 * [[[equip:Grapple Set]]]
 * [[[equip:Advanced Medical Kit]]]

@@ -56,7 +56,7 @@ Secondary: Deaths of over seventy five thousand people and the destruction of a 
 ====
 0
 ====
-* [[[equip:Command Center]]]
+* [[[equip:Cargo Pod]]]
 * [[[equip:Railgun]]]
 ====
 * Was one of the surviving testers of the [[[equip:Liquid Crystal Depositor]]] and is more likely to escape the explosive destruction of one.

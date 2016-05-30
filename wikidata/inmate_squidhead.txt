@@ -1,6 +1,6 @@
 Squidhead
 ====
-12
+0
 ====
  "Dunno, old"
 ====
@@ -61,10 +61,12 @@ under gravity, _
 1
 ====
 * [[[equip:Advanced Repair Kit]]]
-* [[[equip:Enhanced Mounting Systems]]]
-* [[[equip:Sidecar Attachment]]]
-* [[[equip:Quantum Cannon]]] with [[[equip:Turret Upgrade]]]
-* [[[equip:Proton Sword]]] 
+* [[[equip:Targeting Holocomputer]]]
+* [[[equip:Cargo Pod]]]
+* [[[equip:Quantum Cannon]]]
+* [[[equip:Explosive Gauss Cannon]]] on Turret Mount
+* [[[equip:Rugged Tread Upgrade]]]
+* [[[equip:Enhanced Spectrum Cam]]]
 ====
 * Has MultiverseVision
 * Has... SomethingVision
@@ -99,12 +101,13 @@ This is a quote for your character.
 ====
 Support-Recon
 ====
-* [[[equip:Lasgun]]]
-* [[[equip:ElectroRifle]]]
+* [[[equip:Liquid Crystal Depositor]]] on Quickdraw Holster
+* [[[equip:Lasgun]]] on Quickdraw Holster
 * [[[equip:Advanced Medical Kit]]]
-* [[[equip:light-suit-armor | Light Armor]]]
-* [[[equip:Mass Manipulation Amp Unit]]]
-* coupon for 1 [[[equip:armored bodypart]]]
+* [[[equip:Armored Bodypart]]] (full cymek body)
+* [[[equip:Energy Shield]]]
+* [[[equip:TARGET Helm]]]
+* [[[equip:Cymek Reboot Kit]]] (two uses left)
 ====
 Corporal (3)
 ====

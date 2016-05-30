@@ -51,8 +51,8 @@ Hacked into local banks and stole 250,000 credits.
 ====
 0
 ====
-* [[[equip:mk-2-casket | Casket Mk 2]]]
-* [[[equip:Particle-gun | Particle Gun]]]
+* [[[equip:Mk 2 Casket]]]
+* [[[equip:Particle Gun]]]
 * [[[equip:Neutron Beam Projector]]]
 * [[[equip:Peripheral Hacking Computer]]]
 * [[[equip:Transponder Dish]]]
