@@ -28,3 +28,4 @@ NPC&Aliss Maroon&6
 NPC&Trig&6
 NPC&Rikke&6
 NPC&Clara Lesaille&6
+Talvieno&SCAMPS&0

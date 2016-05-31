@@ -113,7 +113,7 @@ def parseAction(mess):
 
 
 # url = "http://forums.ltheory.com/viewtopic.php?f=29&t=4512&start=705#p127057"
-url = "http://forums.ltheory.com/viewtopic.php?f=29&t=4512&start=810#p127538"
+url = "http://forums.ltheory.com/viewtopic.php?f=29&t=5143&start=225#p127924"
 if 'start' not in url:
     url = url.replace('#', '&start=0#')
 
@@ -173,7 +173,10 @@ while keepgoing:
             prevhtmlstr = htmlstr
     else:
         prevhtmlstr = htmlstr
-    parsed_html.blockquote.decompose()
+    try:
+        parsed_html.blockquote.decompose()
+    except Exception:
+        pass
     links = [str(tag.find_all('a')[0]) for tag in parsed_html.body.find_all('p', attrs={'class': 'author'})]
     auths = [tag.find_all('a')[1].text for tag in parsed_html.body.find_all('p', attrs={'class': 'author'})]
     posts = parsed_html.body.find_all('div', attrs={'class': 'content'})
@@ -209,7 +212,7 @@ while keepgoing:
                     if commanding:
                         chars[auths[j]].addCommand(line)
                     else:
-                        chars[auths[j]].addAction(parseAction(line))
+                        chars[auths[j]].addAction(line)
                     if line.endswith('"'):
                         commanding = False
 
