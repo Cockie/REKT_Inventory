@@ -182,7 +182,7 @@ def main():
     global players
     global piles
     global ships
-    players, piles, ships = load('import')
+    players, piles, ships = load('')
     updateLists()
     updateTree()
     root.protocol('WM_DELETE_WINDOW', stop)

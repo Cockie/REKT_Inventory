@@ -1,5 +1,5 @@
 from random import randint
-psi = 1
+psi = 2
 chance = (3+psi)/6
 if chance>1:
     chance = 1
