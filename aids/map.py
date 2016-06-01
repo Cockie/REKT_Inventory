@@ -18,7 +18,7 @@ ymin = 5
 ymax = 10
 dx = round((xmax - xmin))
 dy = round((ymax - ymin))
-print(dx, dy)
+#print(dx, dy)
 z = z[int(ymin * unit):int(ymax * unit), int(xmin * unit):int(xmax * unit)]
 
 # Or you can use a colormap to specify the colors; the default
@@ -29,7 +29,7 @@ im = plt.imshow(z, interpolation='bilinear', origin='lower',
 levels = np.arange(round(min(z.ravel()), -1), round(max(z.ravel()), -1), 100)
 CS = plt.contour(z, levels,
                  origin='lower',
-                 linewidths=1, extent=(0, dx, 0, dy), cmap=cm.jet)
+                 linewidths=1, extent=(0, dx, 0, dy), cmap=plt.get_cmap('jet'))
 
 circle1 = plt.Circle((2 - xmin, 5 - ymin), 2, edgecolor='#ee00ff', facecolor='none', linewidth=3)
 circle2 = plt.Circle((2.5 - xmin, 0.7 - ymin), 1.5, edgecolor='#0055ff', facecolor='none', linewidth=3)
@@ -57,7 +57,7 @@ plt.clabel(CS, levels[1::2],  # label every second level
 # CB = plt.colorbar(CS, shrink=0.8, extend='both')
 
 plt.title("Sitatha's Canyons - Topographical Map")
-plt.jet()  # Now change the colormap for the contour lines and colorbar
+#plt.jet()  # Now change the colormap for the contour lines and colorbar
 plt.flag()
 
 # We can still add a colorbar for the image, too.
